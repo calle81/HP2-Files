@@ -1,0 +1,15 @@
+jojoba;JoJo no Kimyouna Bouken Miraie no Isan (Japan 990913);Arcade;;1999;Capcom;;;;;;0;;;;;
+jojoba;JoJo no Kimyouna Bouken Miraie no Isan (Japan 990913);Final Burn Alpha;;1999;Capcom;;;;;;0;;;;;
+jojo;JoJo's Venture (USA 990108);Arcade;;1998;Capcom;;;;;;0;;;;;
+jojo;JoJo's Venture (USA 990108);Final Burn Alpha;;1998;Capcom;;;;;;0;;;;;
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+redearth;Red Earth (Euro 961121);Arcade;;1996;Capcom;;;;;;0;;;;;
+redearth;Red Earth (Euro 961121);Final Burn Alpha;;1996;Capcom;;;;;;0;;;;;
+sfiii;Street Fighter III New Generation (USA 970204);Arcade;;1997;Capcom;;;;;;0;;;;;
+sfiii;Street Fighter III New Generation (USA 970204);Final Burn Alpha;;1997;Capcom;;;;;;0;;;;;
+sfiii2;Street Fighter III 2nd Impact Giant Attack (USA 970930);Arcade;;1997;Capcom;;;;;;0;;;;;
+sfiii2;Street Fighter III 2nd Impact Giant Attack (USA 970930);Final Burn Alpha;;1997;Capcom;;;;;;0;;;;;
+sfiii3u;Street Fighter III 3rd Strike Fight for the Future (USA 990608);Arcade;;1999;Capcom;;;;;;0;;;;;
+sfiii3u;Street Fighter III 3rd Strike Fight for the Future (USA 990608);Final Burn Alpha;;1999;Capcom;;;;;;0;;;;;
+sfiii3;Street Fighter III 3rd Strike: Fight for the Future (Euro 990608);Arcade;;1999;Capcom;Fighter;;;;;0;;;;;
+sfiii3;Street Fighter III 3rd Strike: Fight for the Future (Euro 990608);Final Burn Alpha;;1999;Capcom;Fighter;;;;;0;;;;;

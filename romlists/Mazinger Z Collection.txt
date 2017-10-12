@@ -1,0 +1,11 @@
+mazingerj;Mazinger Z (Japan);Arcade;mazinger;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;;;;;0;;;;;
+mazingerj;Mazinger Z (Japan);MAME (Advance);mazinger;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;;;;;0;;;;;
+mazingerj;Mazinger Z (Japan);MAME (Libretro);mazinger;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;;;;;0;;;;;
+mazingerj;Mazinger Z (Japan);MAME (Mame4all);mazinger;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;;;;;0;;;;;
+mazingerj;Mazinger Z (Japan, ver. 94/06/27);Final Burn Alpha;mazinger;1994;Banpresto / Dynamic Pl. Toei Animation;;;;;;0;;;;;
+mazinger;Mazinger Z (World);Arcade;;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;;;;;0;;;;;
+mazinger;Mazinger Z (World);MAME (Advance);;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;;;;;0;;;;;
+mazinger;Mazinger Z (World);MAME (Libretro);;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;;;;;0;;;;;
+mazinger;Mazinger Z (World);MAME (Mame4all);;1994;Banpresto / Dynamic Pl. Toei Animation;Shooter / Flying Vertical;;;;;0;;;;;
+mazinger;Mazinger Z (World, ver. 94/06/27);Final Burn Alpha;;1994;Banpresto / Dynamic Pl. Toei Animation;;;;;;0;;;;;
+Mazinger Z (Japan);Mazinger Z (Japan);Nintendo Super Famicom;;1993;WinkySoft;Action;;;;;0;;;;;

@@ -1,0 +1,3 @@
+1. Sony PSX romlist is if you are using Scott's PBP full set it should work with everything though but always backup first
+2. If you want to use your own hacks generate a romlist over using this one
+3. Arcade.txt is from Will's Arcade v3 but you can use or generate your own as you please

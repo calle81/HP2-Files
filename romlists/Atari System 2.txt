@@ -1,0 +1,6 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+720;720 Degrees;MAME (Advance);;2016;Atari Games;;;;;;0;;;;;
+apb;APB - All Points Bulletin;MAME (Advance);;2016;Atari Games;;;;;;0;;;;;
+csprint;Championship Sprint;MAME (Advance);;2016;Atari Games;;;;;;0;;;;;
+paperboy;Paperboy;MAME (Advance);;2016;Atari Games;;;;;;0;;;;;
+ssprint;Super Sprint;MAME (Advance);;2016;Atari Games;;;;;;0;;;;;

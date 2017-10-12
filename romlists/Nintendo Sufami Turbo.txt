@@ -1,0 +1,16 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST);Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST);Nintendo Sufami Turbo;;;;;;;;;;;;;;
+Crayon Shin Chan - Nagagutsu Dobon (J) (ST);Crayon Shin Chan - Nagagutsu Dobon (J) (ST);Nintendo Sufami Turbo;;;;;;;;;;;;;;
+Gegege no Kitarou - Youkai Donjara (J) (ST);Gegege no Kitarou - Youkai Donjara (J) (ST);Nintendo Sufami Turbo;;;;;;;;;;;;;;
+Gekisou Sentai Car Rangers (J) (ST);Gekisou Sentai Car Rangers (J) (ST);Nintendo Sufami Turbo;;;;;;;;;;;;;;
+Poi Poi Ninjya World (J) (ST);Poi Poi Ninjya World (J) (ST);Nintendo Sufami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations 1 Nen Sensouki;SD Gundam Generations 1 Nen Sensouki;Nintendo Sufami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations 2 Guripus Senki;SD Gundam Generations 2 Guripus Senki;Nintendo Sufami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations 3 Axiz Senki;SD Gundam Generations 3 Axiz Senki;Nintendo Sufami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations 4 Babironia Kenkoku Senki;SD Gundam Generations 4 Babironia Kenkoku Senki;Nintendo Sufami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations 5 Zansukaru Senki;SD Gundam Generations 5 Zansukaru Senki;Nintendo Sufami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations 6 Colony Kakutouki;SD Gundam Generations 6 Colony Kakutouki;Nintendo Sufami Turbo;;;;;;;;;;;;;;
+SD Ultra Battle - Seven & Ultraman (J) (ST);SD Ultra Battle - Seven & Ultraman (J) (ST);Nintendo Sufami Turbo;;;;;;;;;;;;;;
+SD Ultra Battle - Seven Densetsu (J) (ST);SD Ultra Battle - Seven Densetsu (J) (ST);Nintendo Sufami Turbo;;;;;;;;;;;;;;
+SD Ultra Battle - Ultraman & Seven (J) (ST);SD Ultra Battle - Ultraman & Seven (J) (ST);Nintendo Sufami Turbo;;;;;;;;;;;;;;
+SD Ultra Battle - Ultraman Densetsu (J) (ST);SD Ultra Battle - Ultraman Densetsu (J) (ST);Nintendo Sufami Turbo;;;;;;;;;;;;;;

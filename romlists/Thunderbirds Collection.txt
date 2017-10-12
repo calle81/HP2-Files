@@ -1,0 +1,16 @@
+Thunderbirds (Europe) (Disk 1);Thunderbirds (Europe) (Disk 1);Amstrad CPC;;1989;Grandslam;Adventure;;;;;0;;;;;
+Thunderbirds (Europe) (Disk 2);Thunderbirds (Europe) (Disk 2);Amstrad CPC;;1989;Grandslam;Adventure;;;;;0;;;;;
+Thunderbirds (Europe);Thunderbirds (Europe);Atari ST;;1989;Grandslam Entertainment;Action;;;;;0;;;;;
+Thunderbirds (Europe);Thunderbirds (Europe);Nintendo Game Boy Color;;2000;SCi;Action;;;;;0;;;;;
+Thunderbirds (Europe);Thunderbirds (Europe);Sinclair ZX Spectrum;;1985;Firebird Software;Maze;;;;;0;;;;;
+Thunderbirds (Firebird) (Europe);Thunderbirds (Firebird) (Europe);Commodore 64;;1985;Firebird;Adventure;;;;;0;;;;;
+Thunderbirds (Grandslam Entertainment Ltd.) (Europe);Thunderbirds (Grandslam Entertainment Ltd.) (Europe);Commodore 64;;1989;Grandslam Entertainment Ltd.;Adventure;;;;;0;;;;;
+Thunderbirds - International Rescue (Europe);Thunderbirds - International Rescue (Europe);Nintendo Game Boy Advance;;2001;SCi;Action;;;;;0;;;;;
+Thunderbirds - Kokusai Kyuujotai Shutsudou seyo! (Japan);Thunderbirds - Kokusai Kyuujotai Shutsudou seyo! (Japan);Nintendo Super Famicom;;1993;Nova Games Ltd.;Action;;;;;0;;;;;
+Thunderbirds - Mission 1 - Mine Rescue (Europe);Thunderbirds - Mission 1 - Mine Rescue (Europe);Sinclair ZX Spectrum;;1989;Grandslam Entertainments;Adventure;;;;;0;;;;;
+Thunderbirds - Mission 2 - Sub Crash (Europe);Thunderbirds - Mission 2 - Sub Crash (Europe);Sinclair ZX Spectrum;;1989;Grandslam Entertainments;Adventure;;;;;0;;;;;
+Thunderbirds - Mission 3 - Bank Job (Europe);Thunderbirds - Mission 3 - Bank Job (Europe);Sinclair ZX Spectrum;;1989;Grandslam Entertainments;Adventure;;;;;0;;;;;
+Thunderbirds - Mission 4 - Evil Hood (Europe);Thunderbirds - Mission 4 - Evil Hood (Europe);Sinclair ZX Spectrum;;1989;Grandslam Entertainments;Adventure;;;;;0;;;;;
+Thunderbirds (USA, Europe);Thunderbirds (USA, Europe);Nintendo Game Boy Advance;;2004;VU Games;Adventure;;;;;0;;;;;
+Thunderbirds (USA);Thunderbirds (USA);Nintendo Entertainment System;;1990;Activision;Shoot-'Em-Up;;;;;0;;;;;
+Thunderbirds_v1.0_0742;Thunderbirds;Commodore Amiga;;;;;;;;;0;;;;;

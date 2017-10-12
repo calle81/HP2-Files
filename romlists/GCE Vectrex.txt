@@ -1,0 +1,24 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Armor..Attack (World);Armor..Attack (World);GCE Vectrex;;1982;GCE;Shooter;;;;;0;;;;;
+Bedlam (USA, Europe);Bedlam (USA, Europe);GCE Vectrex;;1982;GCE;Action;;;;;0;;;;;
+Berzerk (World);Berzerk (World);GCE Vectrex;;1982;GCE;Action;;;;;0;;;;;
+Blitz! - Action Football (USA, Europe);Blitz! - Action Football (USA, Europe);GCE Vectrex;;1982;GCE;Sports/Football;;;;;0;;;;;
+Clean Sweep (World);Clean Sweep (World);GCE Vectrex;;1982;GCE;Action;;;;;0;;;;;
+Cosmic Chasm (World);Cosmic Chasm (World);GCE Vectrex;;1982;GCE;Action;;;;;0;;;;;
+Fortress of Narzod (USA, Europe);Fortress of Narzod (USA, Europe);GCE Vectrex;;1982;GCE;Action;;;;;0;;;;;
+Heads-Up - Action Soccer (USA);Heads-Up - Action Soccer (USA);GCE Vectrex;;1983;GCE;Sports/Soccer;;;;;0;;;;;
+HyperChase - Auto Race (World);HyperChase - Auto Race (World);GCE Vectrex;;1982;GCE;Action;;;;;0;;;;;
+Mine Storm (World);Mine Storm (World);GCE Vectrex;;1982;GCE;Shooter;;;;;0;;;;;
+Mine Storm II (USA) (Rev 2);Mine Storm II (USA) (Rev 2);GCE Vectrex;;1982;GCE;Shooter;;;;;0;;;;;
+Polar Rescue (USA);Polar Rescue (USA);GCE Vectrex;;1983;GCE;Shooter;;;;;0;;;;;
+Pole Position (USA);Pole Position (USA);GCE Vectrex;;1983;Namco;Driving;;;;;0;;;;;
+Rip Off (World);Rip Off (World);GCE Vectrex;;1982;GCE;Shooter;;;;;0;;;;;
+Scramble (USA, Europe);Scramble (USA, Europe);GCE Vectrex;;1982;Konami;Action;;;;;0;;;;;
+Solar Quest (World);Solar Quest (World);GCE Vectrex;;1982;GCE;Shooter;;;;;0;;;;;
+Space Wars (World);Space Wars (World);GCE Vectrex;;1982;GCE;Action;;;;;0;;;;;
+Spike (USA, Europe);Spike (USA, Europe);GCE Vectrex;;1983;GCE;Action;;;;;0;;;;;
+Spin ball (USA);Spin ball (USA);GCE Vectrex;;1983;GCE;Pinball;;;;;0;;;;;
+Star Castle (USA);Star Castle (USA);GCE Vectrex;;1983;GCE;Action;;;;;0;;;;;
+Star Trek - The Motion Picture (USA);Star Trek - The Motion Picture (USA);GCE Vectrex;;1982;GCE;Action;;;;;0;;;;;
+StarHawk (World);StarHawk (World);GCE Vectrex;;1982;GCE;Shooter;;;;;0;;;;;
+WebWars (USA);WebWars (USA);GCE Vectrex;;1983;GCE;Action;;;;;0;;;;;

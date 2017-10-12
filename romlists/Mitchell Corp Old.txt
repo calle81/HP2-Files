@@ -1,0 +1,17 @@
+charlien;Charlie Ninja;Arcade;;1995;Mitchell;Platformer;;;;;;0;;;;;
+dblewing;Double-Wings;Arcade;;1993;Mitchell;Shooter;;;;;;0;;;;;
+gamshara;Gamshara (World, 10021 Ver.A);Arcade;;2003;Mitchell;Shooter;;;;;;0;;;;;
+choko;Janpai Puzzle Choukou (Japan 010820);Arcade;;2001;Mitchell;Puzzle;;;;;;0;;;;;
+funkyjet;Funky Jet;Arcade;;1992;Mitchell;Platformer;;;;;;0;;;;;
+karatour; Karate Tournament, The;Arcade;;2001;Mitchell;Fighting;;;;;;0;;;;;
+madmotor;Mad Motor;Arcade;;1989;Mitchell;Fighter;;;;;;0;;;;;
+osman;Osman;Arcade;;1996;Mitchell;Platformer;;;;;;0;;;;;
+pang;Pang;Arcade;;1989;Mitchell;Action;;;;;;0;;;;;
+spang;Super Pang;Arcade;;1990;Mitchell;Action;;;;;;0;;;;;
+pang3;Pang! 3;Arcade;;1995;Mitchell;Action;;;;;;0;;;;;
+mpang;Mighty! Pang;Arcade;;2000;Mitchell;Action;;;;;;0;;;;;
+pangpoms;Pang Pom's;Arcade;;1993;Metro;Platformer;;;;;;0;;;;;
+puzzloop;Puzzle Loop;Arcade;;1998;Mitchell;Puzzle;;;;;;0;;;;;
+pzloop2;Puzzle Loop 2;Arcade;;2001;Mitchell;Puzzle;;;;;;0;;;;;
+sotsugyo;Sotsugyo Shousho;Arcade;;1995;Mitchell;;;;;;;0;;;;;
+superx;Super-X;Arcade;;1994;NTC;Shooter;;;;;;0;;;;;

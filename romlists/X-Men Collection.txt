@@ -1,0 +1,25 @@
+
+Captain America and the Avengers (USA);Captain America and the Avengers (USA);Nintendo NES;;;;;;;;;;;;;;
+
+Captain America and the Avengers (USA);Captain America and the Avengers (USA);Nintendo SNES;;;;;;;;;;;;;;
+
+X-Men - Mutant Apocalypse (USA);X-Men - Mutant Apocalypse (USA);Nintendo SNES;;;;;;;;;;;;;;
+
+
+Captain America and the Avengers (USA);Captain America and the Avengers (USA);Sega Mega Drive;;;;;;;;;;;;;;
+
+
+X-Men (USA);X-Men (USA);Sega Mega Drive;;;;;;;;;;;;;;
+
+X-Men 2 - Clone Wars (USA, Europe);X-Men 2 - Clone Wars (USA, Europe);Sega Mega Drive;;;;;;;;;;;;;;
+
+captaven;captaven;MAME (Advance);;;;;;;;;;;;;
+spidman;spidman;MAME (Advance);;;;;;;;;;;;;
+
+
+xmen;xmen;MAME (Advance);;;;;;;;;;;;;
+xmvsf;X-Men Vs. Street Fighter (Euro 961004);Capcom Classics;;1996;Capcom;Fighter;;;;;0;;;;;
+xmcota;X-Men: Children of the Atom (Euro 950331);Capcom Classics;;1994;Capcom;Fighter;;;;;0;;;;;
+mshu;Marvel Super Heroes (USA 951024);CPS2;;1995;Capcom;;;;;;0;;;;;
+mshvsfu;Marvel Super Heroes Vs. Street Fighter (USA 970827);CPS2;;1997;Capcom;;;;;;0;;;;;
+mvscu;Marvel Vs. Capcom: Clash of Super Heroes (USA 980123);CPS2;;1998;Capcom;;;;;;0;;;;;

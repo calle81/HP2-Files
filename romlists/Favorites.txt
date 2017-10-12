@@ -1,0 +1,5 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+pacman;Pac-Man (Midway);Arcade;puckman;1980;Namco (Midway license);Maze;;;;;0;;;;;
+Super Mario Bros. 3 (USA);Super Mario Bros. 3 (USA);Nintendo Entertainment System;;1990;Nintendo;Platform;;;;;0;;;;;
+Sonic the Hedgehog 3 (USA);Sonic the Hedgehog 3 (USA);Sega Genesis;;1994;Sega;Platform;;;;;0;;;;;
+Pitfall! - Pitfall Harry's Jungle Adventure (USA);Pitfall! - Pitfall Harry's Jungle Adventure (USA);Atari 2600;;1982;Activision;Platform;;;;;0;;;;;

@@ -1,0 +1,25 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+BMX Air Master (USA);BMX Air Master (USA);Atari 2600;;1989;TNT Games;Sports/Biking;;;;;0;;;;;
+BMX Freestyle Simulator (Europe);BMX Freestyle Simulator (Europe);Commodore 64;;1989;Codemasters;Sports/Biking;;;;;0;;;;;
+BMX Jungle Bike (Europe);BMX Jungle Bike (Europe);Commodore 64;;1985;Reelax Games;Action;;;;;0;;;;;
+BMX Kidz (Europe);BMX Kidz (Europe);Commodore 64;;1987;Firebird;Sports/Biking;;;;;0;;;;;
+BMX Ninja (Europe);BMX Ninja (Europe);Commodore 64;;1988;Alternative Software;Sports/Biking;;;;;0;;;;;
+BMX Number Jump (Europe);BMX Number Jump (Europe);Commodore 64;;1984;Longman Group Ltd./Micromega;Educational;;;;;0;;;;;
+BMX Racers (Europe);BMX Racers (Europe);Commodore 64;;1984;Mastertronic;Driving;;;;;0;;;;;
+BMX Simulator (Europe);BMX Simulator (Europe);Commodore 64;;1986;Codemasters;Sports/Biking;;;;;0;;;;;
+BMX Simulator II (Europe);BMX Simulator II (Europe);Commodore 64;;1989;Codemasters;Sports/Biking;;;;;0;;;;;
+BMX Trials (Europe);BMX Trials (Europe);Commodore 64;;1985;Mastertronic;Sports/Biking;;;;;0;;;;;
+Alex Kidd BMX Trial (Japan);Alex Kidd BMX Trial (Japan);Sega Master System;;1987;Sega;Sports/Biking;;;;;0;;;;;
+Dave Mirra Freestyle BMX (USA, Europe);Dave Mirra Freestyle BMX (USA, Europe);Nintendo Game Boy Color;;2000;Acclaim;Sports;;;;;0;;;;;
+MTV Sports - T.J. Lavin's Ultimate BMX (USA, Europe);MTV Sports - T.J. Lavin's Ultimate BMX (USA, Europe);Nintendo Game Boy Color;;2000;THQ;Sports;;;;;0;;;;;
+Mat Hoffman's Pro BMX (USA, Europe);Mat Hoffman's Pro BMX (USA, Europe);Nintendo Game Boy Color;;2000;Activision;Sports;;;;;0;;;;;
+BMX Trick Racer (USA);BMX Trick Racer (USA);Nintendo Game Boy Advance;;2003;Simon &  Schuster;Biking/Sports;;;;;0;;;;;
+Dave Mirra Freestyle BMX 2 (USA);Dave Mirra Freestyle BMX 2 (USA);Nintendo Game Boy Advance;;2001;Acclaim;Biking/Sports;;;;;0;;;;;
+Dave Mirra Freestyle BMX 3 (USA, Europe);Dave Mirra Freestyle BMX 3 (USA, Europe);Nintendo Game Boy Advance;;2002;Acclaim;Biking/Sports;;;;;0;;;;;
+Mat Hoffman's Pro BMX (USA, Europe);Mat Hoffman's Pro BMX (USA, Europe);Nintendo Game Boy Advance;;2001;Activision;Biking/Sports;;;;;0;;;;;
+Mat Hoffman's Pro BMX 2 (USA, Europe);Mat Hoffman's Pro BMX 2 (USA, Europe);Nintendo Game Boy Advance;;2002;Activision;Biking/Sports;;;;;0;;;;;
+Dave Mirra Freestyle BMX (USA);Dave Mirra Freestyle BMX (USA);Sony PlayStation;;2000;Acclaim;Sports/Biking;;;;;0;;;;;
+Dave Mirra Freestyle BMX - Maximum Remix (USA);Dave Mirra Freestyle BMX - Maximum Remix (USA);Sony PlayStation;;2001;Acclaim;Sports/Biking;;;;;0;;;;;
+MTV Sports - T.J. Lavin's Ultimate BMX (USA);MTV Sports - T.J. Lavin's Ultimate BMX (USA);Sony PlayStation;;2001;THQ;Sports/Biking;;;;;0;;;;;
+Mat Hoffman's Pro BMX (USA);Mat Hoffman's Pro BMX (USA);Sony PlayStation;;2001;Activision;Sports/Biking;;;;;0;;;;;
+Dave Mirra BMX Challenge (USA);Dave Mirra BMX Challenge (USA);Sony PSP;;2006;Crave;Driving;;;;;0;;;;;

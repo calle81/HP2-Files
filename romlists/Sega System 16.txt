@@ -1,0 +1,27 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+dduxbl;Dynamite Dux;MAME (Advance);;2016;Sega;;;;;;0;;;;;
+alexkidd;alexkidd;MAME (Advance);;;;;;;;;0;;;;;
+aliensyn;aliensyn;MAME (Advance);;;;;;;;;0;;;;;
+altbeast;altbeast;MAME (Advance);;;;;;;;;0;;;;;
+astormbl;astormbl;MAME (Advance);;;;;;;;;0;;;;;
+aurail;aurail;MAME (Advance);;;;;;;;;0;;;;;
+eswatbl;eswatbl;MAME (Advance);;;;;;;;;0;;;;;
+fantzone;fantzone;MAME (Advance);;;;;;;;;0;;;;;
+goldnaxe;goldnaxe;MAME (Advance);;;;;;;;;0;;;;;
+hangon;hang-on;MAME (Advance);;;;;;;;;0;;;;;
+sharrier;harrier;MAME (Advance);;;;;;;;;0;;;;;
+hwchamp;hwchamp;MAME (Advance);;;;;;;;;0;;;;;
+mjleague;mjleague;MAME (Advance);;;;;;;;;0;;;;;
+mwalk;moonwlkb;MAME (Advance);;;;;;;;;0;;;;;
+outrun;outrun;MAME (Advance);;;;;;;;;0;;;;;
+quartet2;quartet2;MAME (Advance);;;;;;;;;0;;;;;
+riotcity;riotcity;MAME (Advance);;;;;;;;;0;;;;;
+shangon;s-hangon;MAME (Advance);;;;;;;;;0;;;;;
+sdi;sdi;MAME (Advance);;;;;;;;;0;;;;;
+shdancer;shdancer;MAME (Advance);;;;;;;;;0;;;;;
+shinobi;shinobi;MAME (Advance);;;;;;;;;0;;;;;
+tetrisbl;tetrisbl;MAME (Advance);;;;;;;;;0;;;;;
+timescan;timscanr;MAME (Advance);;;;;;;;;0;;;;;
+tturfbl;tturfbl;MAME (Advance);;;;;;;;;0;;;;;
+wb3bbl;wb3bl;MAME (Advance);;;;;;;;;0;;;;;
+wrestwar;wrestwar;MAME (Advance);;;;;;;;;0;;;;;

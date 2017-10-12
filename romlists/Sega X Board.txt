@@ -1,0 +1,10 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+abcop;A.B. Cop;MAME (Advance);;2016;Sega;;;;;;0;;;;;
+aburner;After Burner;MAME (Advance);;2016;Sega;;;;;;0;;;;;
+aburner2;After Burner II;MAME (Advance);;2016;Sega;;;;;;0;;;;;
+gprider;GP Rider;MAME (Advance);;2016;Sega;;;;;;0;;;;;
+lastsurv;Last Survivor;MAME (Advance);;2016;Sega;;;;;;0;;;;;
+loffire;Line of Fire;MAME (Advance);;2016;Sega;;;;;;0;;;;;
+rachero;Racing Hero;MAME (Advance);;2016;Sega;;;;;;0;;;;;
+smgp;Super Monaco GP;MAME (Advance);;2016;Sega;;;;;;0;;;;;
+thndrbld;Thunder Blade;MAME (Advance);;2016;Sega;;;;;;0;;;;;

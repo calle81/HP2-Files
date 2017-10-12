@@ -1,0 +1,9 @@
+1944;1944 - The Loop Master (USA 000620);Arcade;;2000;Raizing;Shooter / Flying Vertical;;;;;0;;;;;
+batrider;Armed Police Batrider (Europe) (Fri Feb 13 1998);Arcade;;1998;Raizing;Shooter / Flying Vertical;;;;;0;;;;;
+bgareggat2;Battle Garegga - Type 2 (Europe / USA / Japan / Asia) (Sat Mar 2 1996);Arcade;;1996;Raizing;Shooter / Flying Vertical;;;;;0;;;;;
+bbakraid;Battle Bakraid - Unlimited Version (USA);Arcade;;1999;Raizing;Shooter / Flying Vertical;;;;;0;;;;;
+brvblade;Brave Blade (World);Arcade;;2000;Raizing;Shooter / Flying Vertical;;;;;0;;;;;
+sokyugrt;Soukyugurentai / Terra Diver (JUET 960821 V1.000);Arcade;;1996;Raizing;Shooter / Flying Vertical;;;;;0;;;;;
+sstriker;Sorcer Striker / Mahou Daisakusen (set 1);Arcade;;1993;Raizing;Shooter / Flying Vertical;;;;;0;;;;;
+kingdmgp;Kingdom Grandprix / Shippu Mahou Daisakusen;Arcade;;1994;Raizing;Shooter / Flying Vertical;;;;;0;;;;;
+dimahoo;Dimahoo / Great Mahou Daisakusen (Euro 000121);Arcade;;2000;Raizing;Shooter / Flying Vertical;;;;;0;;;;;
