@@ -105,23 +105,23 @@ animation.add( PropertyAnimation ( layer2_fadein, layer2_fadein_fade_out ) );
 /////////////////////
 //Artwork
 /////////////////////
-
+/*
 local boxart_fadein = fe.add_artwork("boxart", flx*0.2, fly*0.3, flw*0.3, flh*0.5 );
 boxart_fadein.alpha=0;
 boxart_fadein.preserve_aspect_ratio = true;
-//boxart.trigger = Transition.ToGame;
+boxart_fadein.trigger = Transition.EndNavigation;
 local cartart_fadein = fe.add_artwork("cartart", flx*0.02, fly*0.4, flw*0.3, flh*0.3 );
 cartart_fadein.alpha=0;
 cartart_fadein.preserve_aspect_ratio = true;
-//cartart.trigger = Transition.ToGame;
+cartart_fadein.trigger = Transition.EndNavigation;
 local cdart_fadein = fe.add_artwork("cdart", flx*0.02, fly*0.4, flw*0.3, flh*0.3 );
 cdart_fadein.alpha=0;
-cdart_fadein.preserve_aspect_ratio = true;
-//cdart.trigger = Transition.ToGame;
-local fanart_fadein = fe.add_artwork("flyer", flx*0.4, fly*0.35, flw*0.3, flh*0.4 );
+cdart_fadein.trigger = Transition.EndNavigation;
+*/
+
+local fanart_fadein = fe.add_image("systemimages/[DisplayName]", flx*0.25, fly*0.35, flw*0.3, flh*0.4 );
 fanart_fadein.alpha=0;
 fanart_fadein.preserve_aspect_ratio = true;
-//fanart.trigger = Transition.ToGame;
 
 local layer3_fadein_fade_in = {
     when = Transition.ToGame,
@@ -154,14 +154,14 @@ local layer3_fadein_fade_out = {
 }
 
 animation.add( PropertyAnimation ( fanart_fadein, layer3_fadein_fade_in ) );
-animation.add( PropertyAnimation ( boxart_fadein, layer3_fadein_fade_in ) );
-animation.add( PropertyAnimation ( cartart_fadein, layer3_fadein_fade_in ) );
-animation.add( PropertyAnimation ( cdart_fadein, layer3_fadein_fade_in ) );
+//animation.add( PropertyAnimation ( boxart_fadein, layer3_fadein_fade_in ) );
+//animation.add( PropertyAnimation ( cartart_fadein, layer3_fadein_fade_in ) );
+//animation.add( PropertyAnimation ( cdart_fadein, layer3_fadein_fade_in ) );
 //animation.add( PropertyAnimation ( layer3_fadein, layer3_fadein_shrink ) );
 animation.add( PropertyAnimation ( fanart_fadein, layer3_fadein_fade_out ) );
-animation.add( PropertyAnimation ( boxart_fadein, layer3_fadein_fade_out ) );
-animation.add( PropertyAnimation ( cartart_fadein, layer3_fadein_fade_out ) );
-animation.add( PropertyAnimation ( cdart_fadein, layer3_fadein_fade_out ) );
+//animation.add( PropertyAnimation ( boxart_fadein, layer3_fadein_fade_out ) );
+//animation.add( PropertyAnimation ( cartart_fadein, layer3_fadein_fade_out ) );
+//animation.add( PropertyAnimation ( cdart_fadein, layer3_fadein_fade_out ) );
 
 /////////////////////
 //Loading Text
