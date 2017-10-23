@@ -1,0 +1,432 @@
+	<path>./A Mind Forever Voyaging.dat</path>
+	<desc>A Mind Forever Voyaging is a text-based interactive fiction game. The player reads descriptions which detail the surroundings and communicates with the game by typing in commands. Most of the time is spent in simulation mode where the player repeatedly visits the town of Rockvil and needs to record situations of everyday or special activities going on. If the player has recorded enough, the game progresses and the simulation ten years ahead can be visited. However, the recording device has no unlimited capacity - when full, the player needs to exit the simulation and let the recordings review by the project leader. Then the current simulation can be simply started again from the start to find new situations - the same applies when dying.</desc>
+	<path>./Ballyhoo.dat</path>
+	<path>./Beyond Zork.dat</path>
+	<path>./Border Zone.dat</path>
+	<path>./Bureaucracy.dat</path>
+	<path>./Cutthroats.dat</path>
+	<desc>You live on small seaport Island called Hardscrabble -- hardly the hip place to be. Working as a professional scuba diver, you have the chance to salvage a sunken treasure from one of four shipwrecks, earn the respect of all the old farts and become wealthy beyond all imagination.</desc>
+	<path>./Deadline.dat</path>
+	<path>./Enchanter.dat</path>
+	<path>./Hitchhiker's Guide to the Galaxy.dat</path>
+	<desc>You are Arthur Dent, an Englishman with a bad hangover wearing a dressing gown containing a much needed buffered analgesic and some fluff. Your house has just been destroyed, followed shortly thereafter by your planet Earth (mostly harmless). You’ve been rescued by your friend Ford Prefect, who’s not actually an out-of-work actor. He has given you a book (The Hitchhiker’s Guide to the Galaxy), a towel, and is now telling you to put a fish in your ear. It must be a Thursday; you’ve never quite gotten the hang of Thursdays.
+
+The Hitchhiker’s Guide to the Galaxy is written by Douglas Adams and Steven Meretzky and based on Adams’ BBC radio series, television series, and the series of subsequent novelizations. It’s one of the classic Interactive Fiction games produced by Infocom, labeled as Science Fiction and has a Standard Level of Difficulty. Though divergent from the source material, the main characters, locations, and concepts are here. Unlike the book, death can come quickly if Arthur fails to observe his surroundings, collect inventory, talk to people, and consult the Guide. DON’T PANIC!</desc>
+	<path>./Hollywood Hijinx.dat</path>
+	<path>./Infidel.dat</path>
+	<path>./Leather Goddeses of Phobos.dat</path>
+	<desc>The year is 1936, and suddenly the protagonist is abducted by the Leather Goddesses for the final testing in the plan which will enslave every man and woman on earth. These Leather Goddesses of Phobos are just finishing up their plans for the invasion of Earth. If the hero fails to escape and save humanity, the Leather Goddesses will turn the Earth into their pleasure dome.
+
+Leather Goddesses of Phobos is a text adventure with humorous overtones. The player uses standard commands in the text parser to observe his environment and pick up items. The game's 'naughtiness' level can be adjusted between Tame (G), Suggestive (PG), and Lewd (R).</desc>
+	<path>./Moonmist.dat</path>
+	<path>./Nord and Bert Couldn't Make Head or Tail of it.dat</path>
+	<desc>Nord and Bert Couldn't Make Head or Tail of It is a text adventure game revolving around puns and wordplays. Idioms and clichés have become real-world objects in the town of Punster, and the player has to sort them out in order to win. There are seven separate scenarios that can be played in any order, as well as the final one that can be accessed only after having completed all seven. These scenarios are:
+
+- The Shopping Bizarre: Products in a grocery store have been replaced by nonsensical homonyms (such as "chocolate moose"), and the player has to revert them to their normal form.
+
+- Playing Jacks: Equipped with an item called "Jack of All Traits", the player has to construct words beginning with "Jack" to solve puzzles.
+
+- Buy the Farm: Clichéd expressions must be used in their literal meaning while exploring a farm.
+
+- Eat Your Words: More literal idioms used in a diner.
+
+- Act the Part: The protagonist is teleported into a 1950's-style sitcom, where he must perform visual gags.
+
+- Manor of Speaking: The protagonist explores a strange house in a more traditional humorous Infocom-style manner.
+
+- Shake a Tower: Letters in expressions have to be re-arranged to create humorous new meanings.
+
+- Meet the Mayor: The final chapter of the game, mixing elements of the others as the protagonist faces the mayor of Punster.</desc>
+	<path>./Planetfall.dat</path>
+	<desc>Planetfall teleports you 12,000 years into an outrageous future. You joined the Stellar Patrol to explore the galaxy, but all you've seen is the end of a mop - until your ship explodes and you're jettisoned onto a mysterious, deserted planet. Luckily, you have Floyd, a lovable multi-purpose robot with the personality of a mischievous 8-year-old. He's the ideal companion with whom to brave your new world, as you dare its dangers and uncover its secrets.</desc>
+	<path>./Plundered Hearts.dat</path>
+	<desc>Plundered Hearts is an interactive fiction computer game created by Amy Briggs and published by Infocom in 1987. It was released simultaneously for several popular computer platforms of the time, such as the PC and Commodore 64. Plundered Hearts was Infocom's first (and only) game in the "romance" genre. It is Infocom's twenty-eighth game.</desc>
+	<path>./Seastalker.dat</path>
+	<path>./Sherlock The Riddle of the Crown Jewels.dat</path>
+	<path>./Sorcerer.dat</path>
+	<path>./Spellbreaker.dat</path>
+	<path>./Starcross.dat</path>
+	<path>./Stationfall.dat</path>
+	<path>./Suspect.dat</path>
+	<path>./Suspended.dat</path>
+	<path>./The Lurking Horror.dat</path>
+	<desc>The Lurking Horror is an interactive fiction game released by Infocom in 1987. The game was written by Dave Lebling and inspired by the horror fiction writings of H. P. Lovecraft (including his Cthulhu Mythos). Like most of Infocom's games, it was released for several platforms simultaneously thanks to the Z-machine.
+
+The original release included versions for DOS, the Apple II, Atari ST, Atari 8-bit family and Commodore 64. Later, it was ported to the Amiga with the addition of sound effects, making it the first title with that feature. The effects would play at appropriate times in the game in an effort to intensify the horror atmosphere. This marked one of the few major additions to the Z-machine with the exception of graphics; traditionally, Infocom had eschewed such changes in favor of expanding the parser capacity and overall size of game files. It was Infocom's 26th game; Infocom rated it as "Standard" in terms of difficulty. Lurking Horror was the only horror game ever released by Infocom.</desc>
+	<path>./Trinity.dat</path>
+	<desc>Trinity is an interactive fiction computer game written by Brian Moriarty and published in 1986 by Infocom. It is widely regarded as one of the company's best works.</desc>
+	<path>./Witness.dat</path>
+	<path>./zork1.dat</path>
+	<desc>The game takes place in the Zork calendar year 948 GUE (although the passage of time is not notable in gameplay). The player steps into the deliberately vague role of an "adventurer". The game begins near a white house in a small, self-contained area. Although the player is given little instruction, the house provides an obvious point of interest.
+
+When the player enters the house, it yields a number of intriguing objects: an ancient brass lantern, an empty trophy case, an intricately engraved sword, etc. Beneath the rug a trap door leads down into a dark dungeon. But what initially appears to be a dungeon is actually one of several entrances to a vast subterranean land—the Great Underground Empire. The player soon encounters dangerous creatures, including deadly grues, an axe-wielding troll, a giant cyclops and a nimble-fingered thief.
+
+The ultimate goal of Zork I is to collect the Twenty Treasures of Zork and install them in the trophy case. Finding the treasures requires solving a variety of puzzles such as the navigation of two brutal mazes and some intricate manipulations at Flood Control Dam #3.</desc>
+	<path>./zork2.dat</path>
+	<desc>The AFGNCAAP begins in the Barrow from Zork I armed only with the trusty brass lantern and sword of elvish antiquity. The purpose of the game is not initially clear.
+
+The Wizard of Frobozz is soon introduced. The wizard was once a respected enchanter, but when his powers began to fade he was exiled by Dimwit Flathead. Now bordering on senility, the wizard is still a force to be reckoned with. Your goal, as you venture into the wizard's realm, is to avoid his capricious tricks and learn to control his magic.
+
+Like its predecessor, Zork II is essentially a treasure hunt. Unlike the previous game, the ten treasures are tied together by a crude plot. Finding the treasures does not end the game, nor are all the treasures needed to finish the game. Instead, the adventurer must figure out a way to use the treasures in order to reach the game's finale.</desc>
+	<path>./zork3.dat</path>
+	<desc>In the third game of the adventure game series Zork, you are once again a nameless adventurer, only this time you won't travel through a beautiful magical land, but are immediately cast into a deep dungeon. Like in a dream, you hear a mysterious voice telling you that you have passed all the tests but one. When conscience returns to you, you find yourself on the endless spiral of stairs, with only your trusty lantern near you... will you be able to survive the horrors of the Dungeon?</desc>
+	<path>./A Mind Forever Voyaging.z1</path>
+	<desc>A Mind Forever Voyaging is a text-based interactive fiction game. The player reads descriptions which detail the surroundings and communicates with the game by typing in commands. Most of the time is spent in simulation mode where the player repeatedly visits the town of Rockvil and needs to record situations of everyday or special activities going on. If the player has recorded enough, the game progresses and the simulation ten years ahead can be visited. However, the recording device has no unlimited capacity - when full, the player needs to exit the simulation and let the recordings review by the project leader. Then the current simulation can be simply started again from the start to find new situations - the same applies when dying.</desc>
+	<path>./Ballyhoo.z1</path>
+	<path>./Beyond Zork.z1</path>
+	<path>./Border Zone.z1</path>
+	<path>./Bureaucracy.z1</path>
+	<path>./Cutthroats.z1</path>
+	<desc>You live on small seaport Island called Hardscrabble -- hardly the hip place to be. Working as a professional scuba diver, you have the chance to salvage a sunken treasure from one of four shipwrecks, earn the respect of all the old farts and become wealthy beyond all imagination.</desc>
+	<path>./Deadline.z1</path>
+	<path>./Enchanter.z1</path>
+	<path>./Hitchhiker's Guide to the Galaxy.z1</path>
+	<desc>You are Arthur Dent, an Englishman with a bad hangover wearing a dressing gown containing a much needed buffered analgesic and some fluff. Your house has just been destroyed, followed shortly thereafter by your planet Earth (mostly harmless). You’ve been rescued by your friend Ford Prefect, who’s not actually an out-of-work actor. He has given you a book (The Hitchhiker’s Guide to the Galaxy), a towel, and is now telling you to put a fish in your ear. It must be a Thursday; you’ve never quite gotten the hang of Thursdays.
+
+The Hitchhiker’s Guide to the Galaxy is written by Douglas Adams and Steven Meretzky and based on Adams’ BBC radio series, television series, and the series of subsequent novelizations. It’s one of the classic Interactive Fiction games produced by Infocom, labeled as Science Fiction and has a Standard Level of Difficulty. Though divergent from the source material, the main characters, locations, and concepts are here. Unlike the book, death can come quickly if Arthur fails to observe his surroundings, collect inventory, talk to people, and consult the Guide. DON’T PANIC!</desc>
+	<path>./Hollywood Hijinx.z1</path>
+	<path>./Infidel.z1</path>
+	<path>./Leather Goddeses of Phobos.z1</path>
+	<desc>The year is 1936, and suddenly the protagonist is abducted by the Leather Goddesses for the final testing in the plan which will enslave every man and woman on earth. These Leather Goddesses of Phobos are just finishing up their plans for the invasion of Earth. If the hero fails to escape and save humanity, the Leather Goddesses will turn the Earth into their pleasure dome.
+
+Leather Goddesses of Phobos is a text adventure with humorous overtones. The player uses standard commands in the text parser to observe his environment and pick up items. The game's 'naughtiness' level can be adjusted between Tame (G), Suggestive (PG), and Lewd (R).</desc>
+	<path>./Moonmist.z1</path>
+	<path>./Nord and Bert Couldn't Make Head or Tail of it.z1</path>
+	<desc>Nord and Bert Couldn't Make Head or Tail of It is a text adventure game revolving around puns and wordplays. Idioms and clichés have become real-world objects in the town of Punster, and the player has to sort them out in order to win. There are seven separate scenarios that can be played in any order, as well as the final one that can be accessed only after having completed all seven. These scenarios are:
+
+- The Shopping Bizarre: Products in a grocery store have been replaced by nonsensical homonyms (such as "chocolate moose"), and the player has to revert them to their normal form.
+
+- Playing Jacks: Equipped with an item called "Jack of All Traits", the player has to construct words beginning with "Jack" to solve puzzles.
+
+- Buy the Farm: Clichéd expressions must be used in their literal meaning while exploring a farm.
+
+- Eat Your Words: More literal idioms used in a diner.
+
+- Act the Part: The protagonist is teleported into a 1950's-style sitcom, where he must perform visual gags.
+
+- Manor of Speaking: The protagonist explores a strange house in a more traditional humorous Infocom-style manner.
+
+- Shake a Tower: Letters in expressions have to be re-arranged to create humorous new meanings.
+
+- Meet the Mayor: The final chapter of the game, mixing elements of the others as the protagonist faces the mayor of Punster.</desc>
+	<path>./Planetfall.z1</path>
+	<desc>Planetfall teleports you 12,000 years into an outrageous future. You joined the Stellar Patrol to explore the galaxy, but all you've seen is the end of a mop - until your ship explodes and you're jettisoned onto a mysterious, deserted planet. Luckily, you have Floyd, a lovable multi-purpose robot with the personality of a mischievous 8-year-old. He's the ideal companion with whom to brave your new world, as you dare its dangers and uncover its secrets.</desc>
+	<path>./Plundered Hearts.z1</path>
+	<desc>Plundered Hearts is an interactive fiction computer game created by Amy Briggs and published by Infocom in 1987. It was released simultaneously for several popular computer platforms of the time, such as the PC and Commodore 64. Plundered Hearts was Infocom's first (and only) game in the "romance" genre. It is Infocom's twenty-eighth game.</desc>
+	<path>./Seastalker.z1</path>
+	<path>./Sherlock The Riddle of the Crown Jewels.z1</path>
+	<path>./Sorcerer.z1</path>
+	<path>./Spellbreaker.z1</path>
+	<path>./Starcross.z1</path>
+	<path>./Stationfall.z1</path>
+	<path>./Suspect.z1</path>
+	<path>./Suspended.z1</path>
+	<path>./The Lurking Horror.z1</path>
+	<desc>The Lurking Horror is an interactive fiction game released by Infocom in 1987. The game was written by Dave Lebling and inspired by the horror fiction writings of H. P. Lovecraft (including his Cthulhu Mythos). Like most of Infocom's games, it was released for several platforms simultaneously thanks to the Z-machine.
+
+The original release included versions for DOS, the Apple II, Atari ST, Atari 8-bit family and Commodore 64. Later, it was ported to the Amiga with the addition of sound effects, making it the first title with that feature. The effects would play at appropriate times in the game in an effort to intensify the horror atmosphere. This marked one of the few major additions to the Z-machine with the exception of graphics; traditionally, Infocom had eschewed such changes in favor of expanding the parser capacity and overall size of game files. It was Infocom's 26th game; Infocom rated it as "Standard" in terms of difficulty. Lurking Horror was the only horror game ever released by Infocom.</desc>
+	<path>./Trinity.z1</path>
+	<desc>Trinity is an interactive fiction computer game written by Brian Moriarty and published in 1986 by Infocom. It is widely regarded as one of the company's best works.</desc>
+	<path>./Witness.z1</path>
+	<path>./zork1.z1</path>
+	<desc>The game takes place in the Zork calendar year 948 GUE (although the passage of time is not notable in gameplay). The player steps into the deliberately vague role of an "adventurer". The game begins near a white house in a small, self-contained area. Although the player is given little instruction, the house provides an obvious point of interest.
+
+When the player enters the house, it yields a number of intriguing objects: an ancient brass lantern, an empty trophy case, an intricately engraved sword, etc. Beneath the rug a trap door leads down into a dark dungeon. But what initially appears to be a dungeon is actually one of several entrances to a vast subterranean land—the Great Underground Empire. The player soon encounters dangerous creatures, including deadly grues, an axe-wielding troll, a giant cyclops and a nimble-fingered thief.
+
+The ultimate goal of Zork I is to collect the Twenty Treasures of Zork and install them in the trophy case. Finding the treasures requires solving a variety of puzzles such as the navigation of two brutal mazes and some intricate manipulations at Flood Control Dam #3.</desc>
+	<path>./zork2.z1</path>
+	<desc>The AFGNCAAP begins in the Barrow from Zork I armed only with the trusty brass lantern and sword of elvish antiquity. The purpose of the game is not initially clear.
+
+The Wizard of Frobozz is soon introduced. The wizard was once a respected enchanter, but when his powers began to fade he was exiled by Dimwit Flathead. Now bordering on senility, the wizard is still a force to be reckoned with. Your goal, as you venture into the wizard's realm, is to avoid his capricious tricks and learn to control his magic.
+
+Like its predecessor, Zork II is essentially a treasure hunt. Unlike the previous game, the ten treasures are tied together by a crude plot. Finding the treasures does not end the game, nor are all the treasures needed to finish the game. Instead, the adventurer must figure out a way to use the treasures in order to reach the game's finale.</desc>
+	<path>./zork3.z1</path>
+	<desc>In the third game of the adventure game series Zork, you are once again a nameless adventurer, only this time you won't travel through a beautiful magical land, but are immediately cast into a deep dungeon. Like in a dream, you hear a mysterious voice telling you that you have passed all the tests but one. When conscience returns to you, you find yourself on the endless spiral of stairs, with only your trusty lantern near you... will you be able to survive the horrors of the Dungeon?</desc>
+	<path>./A Mind Forever Voyaging.z2</path>
+	<desc>A Mind Forever Voyaging is a text-based interactive fiction game. The player reads descriptions which detail the surroundings and communicates with the game by typing in commands. Most of the time is spent in simulation mode where the player repeatedly visits the town of Rockvil and needs to record situations of everyday or special activities going on. If the player has recorded enough, the game progresses and the simulation ten years ahead can be visited. However, the recording device has no unlimited capacity - when full, the player needs to exit the simulation and let the recordings review by the project leader. Then the current simulation can be simply started again from the start to find new situations - the same applies when dying.</desc>
+	<path>./Ballyhoo.z2</path>
+	<path>./Beyond Zork.z2</path>
+	<path>./Border Zone.z2</path>
+	<path>./Bureaucracy.z2</path>
+	<path>./Cutthroats.z2</path>
+	<desc>You live on small seaport Island called Hardscrabble -- hardly the hip place to be. Working as a professional scuba diver, you have the chance to salvage a sunken treasure from one of four shipwrecks, earn the respect of all the old farts and become wealthy beyond all imagination.</desc>
+	<path>./Deadline.z2</path>
+	<path>./Enchanter.z2</path>
+	<path>./Hitchhiker's Guide to the Galaxy.z2</path>
+	<desc>You are Arthur Dent, an Englishman with a bad hangover wearing a dressing gown containing a much needed buffered analgesic and some fluff. Your house has just been destroyed, followed shortly thereafter by your planet Earth (mostly harmless). You’ve been rescued by your friend Ford Prefect, who’s not actually an out-of-work actor. He has given you a book (The Hitchhiker’s Guide to the Galaxy), a towel, and is now telling you to put a fish in your ear. It must be a Thursday; you’ve never quite gotten the hang of Thursdays.
+
+The Hitchhiker’s Guide to the Galaxy is written by Douglas Adams and Steven Meretzky and based on Adams’ BBC radio series, television series, and the series of subsequent novelizations. It’s one of the classic Interactive Fiction games produced by Infocom, labeled as Science Fiction and has a Standard Level of Difficulty. Though divergent from the source material, the main characters, locations, and concepts are here. Unlike the book, death can come quickly if Arthur fails to observe his surroundings, collect inventory, talk to people, and consult the Guide. DON’T PANIC!</desc>
+	<path>./Hollywood Hijinx.z2</path>
+	<path>./Infidel.z2</path>
+	<path>./Leather Goddeses of Phobos.z2</path>
+	<desc>The year is 1936, and suddenly the protagonist is abducted by the Leather Goddesses for the final testing in the plan which will enslave every man and woman on earth. These Leather Goddesses of Phobos are just finishing up their plans for the invasion of Earth. If the hero fails to escape and save humanity, the Leather Goddesses will turn the Earth into their pleasure dome.
+
+Leather Goddesses of Phobos is a text adventure with humorous overtones. The player uses standard commands in the text parser to observe his environment and pick up items. The game's 'naughtiness' level can be adjusted between Tame (G), Suggestive (PG), and Lewd (R).</desc>
+	<path>./Moonmist.z2</path>
+	<path>./Nord and Bert Couldn't Make Head or Tail of it.z2</path>
+	<desc>Nord and Bert Couldn't Make Head or Tail of It is a text adventure game revolving around puns and wordplays. Idioms and clichés have become real-world objects in the town of Punster, and the player has to sort them out in order to win. There are seven separate scenarios that can be played in any order, as well as the final one that can be accessed only after having completed all seven. These scenarios are:
+
+- The Shopping Bizarre: Products in a grocery store have been replaced by nonsensical homonyms (such as "chocolate moose"), and the player has to revert them to their normal form.
+
+- Playing Jacks: Equipped with an item called "Jack of All Traits", the player has to construct words beginning with "Jack" to solve puzzles.
+
+- Buy the Farm: Clichéd expressions must be used in their literal meaning while exploring a farm.
+
+- Eat Your Words: More literal idioms used in a diner.
+
+- Act the Part: The protagonist is teleported into a 1950's-style sitcom, where he must perform visual gags.
+
+- Manor of Speaking: The protagonist explores a strange house in a more traditional humorous Infocom-style manner.
+
+- Shake a Tower: Letters in expressions have to be re-arranged to create humorous new meanings.
+
+- Meet the Mayor: The final chapter of the game, mixing elements of the others as the protagonist faces the mayor of Punster.</desc>
+	<path>./Planetfall.z2</path>
+	<desc>Planetfall teleports you 12,000 years into an outrageous future. You joined the Stellar Patrol to explore the galaxy, but all you've seen is the end of a mop - until your ship explodes and you're jettisoned onto a mysterious, deserted planet. Luckily, you have Floyd, a lovable multi-purpose robot with the personality of a mischievous 8-year-old. He's the ideal companion with whom to brave your new world, as you dare its dangers and uncover its secrets.</desc>
+	<path>./Plundered Hearts.z2</path>
+	<desc>Plundered Hearts is an interactive fiction computer game created by Amy Briggs and published by Infocom in 1987. It was released simultaneously for several popular computer platforms of the time, such as the PC and Commodore 64. Plundered Hearts was Infocom's first (and only) game in the "romance" genre. It is Infocom's twenty-eighth game.</desc>
+	<path>./Seastalker.z2</path>
+	<path>./Sherlock The Riddle of the Crown Jewels.z2</path>
+	<path>./Sorcerer.z2</path>
+	<path>./Spellbreaker.z2</path>
+	<path>./Starcross.z2</path>
+	<path>./Stationfall.z2</path>
+	<path>./Suspect.z2</path>
+	<path>./Suspended.z2</path>
+	<path>./The Lurking Horror.z2</path>
+	<desc>The Lurking Horror is an interactive fiction game released by Infocom in 1987. The game was written by Dave Lebling and inspired by the horror fiction writings of H. P. Lovecraft (including his Cthulhu Mythos). Like most of Infocom's games, it was released for several platforms simultaneously thanks to the Z-machine.
+
+The original release included versions for DOS, the Apple II, Atari ST, Atari 8-bit family and Commodore 64. Later, it was ported to the Amiga with the addition of sound effects, making it the first title with that feature. The effects would play at appropriate times in the game in an effort to intensify the horror atmosphere. This marked one of the few major additions to the Z-machine with the exception of graphics; traditionally, Infocom had eschewed such changes in favor of expanding the parser capacity and overall size of game files. It was Infocom's 26th game; Infocom rated it as "Standard" in terms of difficulty. Lurking Horror was the only horror game ever released by Infocom.</desc>
+	<path>./Trinity.z2</path>
+	<desc>Trinity is an interactive fiction computer game written by Brian Moriarty and published in 1986 by Infocom. It is widely regarded as one of the company's best works.</desc>
+	<path>./Witness.z2</path>
+	<path>./zork1.z2</path>
+	<desc>The game takes place in the Zork calendar year 948 GUE (although the passage of time is not notable in gameplay). The player steps into the deliberately vague role of an "adventurer". The game begins near a white house in a small, self-contained area. Although the player is given little instruction, the house provides an obvious point of interest.
+
+When the player enters the house, it yields a number of intriguing objects: an ancient brass lantern, an empty trophy case, an intricately engraved sword, etc. Beneath the rug a trap door leads down into a dark dungeon. But what initially appears to be a dungeon is actually one of several entrances to a vast subterranean land—the Great Underground Empire. The player soon encounters dangerous creatures, including deadly grues, an axe-wielding troll, a giant cyclops and a nimble-fingered thief.
+
+The ultimate goal of Zork I is to collect the Twenty Treasures of Zork and install them in the trophy case. Finding the treasures requires solving a variety of puzzles such as the navigation of two brutal mazes and some intricate manipulations at Flood Control Dam #3.</desc>
+	<path>./zork2.z2</path>
+	<desc>The AFGNCAAP begins in the Barrow from Zork I armed only with the trusty brass lantern and sword of elvish antiquity. The purpose of the game is not initially clear.
+
+The Wizard of Frobozz is soon introduced. The wizard was once a respected enchanter, but when his powers began to fade he was exiled by Dimwit Flathead. Now bordering on senility, the wizard is still a force to be reckoned with. Your goal, as you venture into the wizard's realm, is to avoid his capricious tricks and learn to control his magic.
+
+Like its predecessor, Zork II is essentially a treasure hunt. Unlike the previous game, the ten treasures are tied together by a crude plot. Finding the treasures does not end the game, nor are all the treasures needed to finish the game. Instead, the adventurer must figure out a way to use the treasures in order to reach the game's finale.</desc>
+	<path>./zork3.z2</path>
+	<desc>In the third game of the adventure game series Zork, you are once again a nameless adventurer, only this time you won't travel through a beautiful magical land, but are immediately cast into a deep dungeon. Like in a dream, you hear a mysterious voice telling you that you have passed all the tests but one. When conscience returns to you, you find yourself on the endless spiral of stairs, with only your trusty lantern near you... will you be able to survive the horrors of the Dungeon?</desc>
+	<path>./A Mind Forever Voyaging.z3</path>
+	<desc>A Mind Forever Voyaging is a text-based interactive fiction game. The player reads descriptions which detail the surroundings and communicates with the game by typing in commands. Most of the time is spent in simulation mode where the player repeatedly visits the town of Rockvil and needs to record situations of everyday or special activities going on. If the player has recorded enough, the game progresses and the simulation ten years ahead can be visited. However, the recording device has no unlimited capacity - when full, the player needs to exit the simulation and let the recordings review by the project leader. Then the current simulation can be simply started again from the start to find new situations - the same applies when dying.</desc>
+	<path>./Ballyhoo.z3</path>
+	<path>./Beyond Zork.z3</path>
+	<path>./Border Zone.z3</path>
+	<path>./Bureaucracy.z3</path>
+	<path>./Cutthroats.z3</path>
+	<desc>You live on small seaport Island called Hardscrabble -- hardly the hip place to be. Working as a professional scuba diver, you have the chance to salvage a sunken treasure from one of four shipwrecks, earn the respect of all the old farts and become wealthy beyond all imagination.</desc>
+	<path>./Deadline.z3</path>
+	<path>./Enchanter.z3</path>
+	<path>./Hitchhiker's Guide to the Galaxy.z3</path>
+	<desc>You are Arthur Dent, an Englishman with a bad hangover wearing a dressing gown containing a much needed buffered analgesic and some fluff. Your house has just been destroyed, followed shortly thereafter by your planet Earth (mostly harmless). You’ve been rescued by your friend Ford Prefect, who’s not actually an out-of-work actor. He has given you a book (The Hitchhiker’s Guide to the Galaxy), a towel, and is now telling you to put a fish in your ear. It must be a Thursday; you’ve never quite gotten the hang of Thursdays.
+
+The Hitchhiker’s Guide to the Galaxy is written by Douglas Adams and Steven Meretzky and based on Adams’ BBC radio series, television series, and the series of subsequent novelizations. It’s one of the classic Interactive Fiction games produced by Infocom, labeled as Science Fiction and has a Standard Level of Difficulty. Though divergent from the source material, the main characters, locations, and concepts are here. Unlike the book, death can come quickly if Arthur fails to observe his surroundings, collect inventory, talk to people, and consult the Guide. DON’T PANIC!</desc>
+	<path>./Hollywood Hijinx.z3</path>
+	<path>./Infidel.z3</path>
+	<path>./Leather Goddeses of Phobos.z3</path>
+	<desc>The year is 1936, and suddenly the protagonist is abducted by the Leather Goddesses for the final testing in the plan which will enslave every man and woman on earth. These Leather Goddesses of Phobos are just finishing up their plans for the invasion of Earth. If the hero fails to escape and save humanity, the Leather Goddesses will turn the Earth into their pleasure dome.
+
+Leather Goddesses of Phobos is a text adventure with humorous overtones. The player uses standard commands in the text parser to observe his environment and pick up items. The game's 'naughtiness' level can be adjusted between Tame (G), Suggestive (PG), and Lewd (R).</desc>
+	<path>./Moonmist.z3</path>
+	<path>./Nord and Bert Couldn't Make Head or Tail of it.z3</path>
+	<desc>Nord and Bert Couldn't Make Head or Tail of It is a text adventure game revolving around puns and wordplays. Idioms and clichés have become real-world objects in the town of Punster, and the player has to sort them out in order to win. There are seven separate scenarios that can be played in any order, as well as the final one that can be accessed only after having completed all seven. These scenarios are:
+
+- The Shopping Bizarre: Products in a grocery store have been replaced by nonsensical homonyms (such as "chocolate moose"), and the player has to revert them to their normal form.
+
+- Playing Jacks: Equipped with an item called "Jack of All Traits", the player has to construct words beginning with "Jack" to solve puzzles.
+
+- Buy the Farm: Clichéd expressions must be used in their literal meaning while exploring a farm.
+
+- Eat Your Words: More literal idioms used in a diner.
+
+- Act the Part: The protagonist is teleported into a 1950's-style sitcom, where he must perform visual gags.
+
+- Manor of Speaking: The protagonist explores a strange house in a more traditional humorous Infocom-style manner.
+
+- Shake a Tower: Letters in expressions have to be re-arranged to create humorous new meanings.
+
+- Meet the Mayor: The final chapter of the game, mixing elements of the others as the protagonist faces the mayor of Punster.</desc>
+	<path>./Planetfall.z3</path>
+	<desc>Planetfall teleports you 12,000 years into an outrageous future. You joined the Stellar Patrol to explore the galaxy, but all you've seen is the end of a mop - until your ship explodes and you're jettisoned onto a mysterious, deserted planet. Luckily, you have Floyd, a lovable multi-purpose robot with the personality of a mischievous 8-year-old. He's the ideal companion with whom to brave your new world, as you dare its dangers and uncover its secrets.</desc>
+	<path>./Plundered Hearts.z3</path>
+	<desc>Plundered Hearts is an interactive fiction computer game created by Amy Briggs and published by Infocom in 1987. It was released simultaneously for several popular computer platforms of the time, such as the PC and Commodore 64. Plundered Hearts was Infocom's first (and only) game in the "romance" genre. It is Infocom's twenty-eighth game.</desc>
+	<path>./Seastalker.z3</path>
+	<path>./Sherlock The Riddle of the Crown Jewels.z3</path>
+	<path>./Sorcerer.z3</path>
+	<path>./Spellbreaker.z3</path>
+	<path>./Starcross.z3</path>
+	<path>./Stationfall.z3</path>
+	<path>./Suspect.z3</path>
+	<path>./Suspended.z3</path>
+	<path>./The Lurking Horror.z3</path>
+	<desc>The Lurking Horror is an interactive fiction game released by Infocom in 1987. The game was written by Dave Lebling and inspired by the horror fiction writings of H. P. Lovecraft (including his Cthulhu Mythos). Like most of Infocom's games, it was released for several platforms simultaneously thanks to the Z-machine.
+
+The original release included versions for DOS, the Apple II, Atari ST, Atari 8-bit family and Commodore 64. Later, it was ported to the Amiga with the addition of sound effects, making it the first title with that feature. The effects would play at appropriate times in the game in an effort to intensify the horror atmosphere. This marked one of the few major additions to the Z-machine with the exception of graphics; traditionally, Infocom had eschewed such changes in favor of expanding the parser capacity and overall size of game files. It was Infocom's 26th game; Infocom rated it as "Standard" in terms of difficulty. Lurking Horror was the only horror game ever released by Infocom.</desc>
+	<path>./Trinity.z3</path>
+	<desc>Trinity is an interactive fiction computer game written by Brian Moriarty and published in 1986 by Infocom. It is widely regarded as one of the company's best works.</desc>
+	<path>./Witness.z3</path>
+	<path>./zork1.z3</path>
+	<desc>The game takes place in the Zork calendar year 948 GUE (although the passage of time is not notable in gameplay). The player steps into the deliberately vague role of an "adventurer". The game begins near a white house in a small, self-contained area. Although the player is given little instruction, the house provides an obvious point of interest.
+
+When the player enters the house, it yields a number of intriguing objects: an ancient brass lantern, an empty trophy case, an intricately engraved sword, etc. Beneath the rug a trap door leads down into a dark dungeon. But what initially appears to be a dungeon is actually one of several entrances to a vast subterranean land—the Great Underground Empire. The player soon encounters dangerous creatures, including deadly grues, an axe-wielding troll, a giant cyclops and a nimble-fingered thief.
+
+The ultimate goal of Zork I is to collect the Twenty Treasures of Zork and install them in the trophy case. Finding the treasures requires solving a variety of puzzles such as the navigation of two brutal mazes and some intricate manipulations at Flood Control Dam #3.</desc>
+	<path>./zork2.z3</path>
+	<desc>The AFGNCAAP begins in the Barrow from Zork I armed only with the trusty brass lantern and sword of elvish antiquity. The purpose of the game is not initially clear.
+
+The Wizard of Frobozz is soon introduced. The wizard was once a respected enchanter, but when his powers began to fade he was exiled by Dimwit Flathead. Now bordering on senility, the wizard is still a force to be reckoned with. Your goal, as you venture into the wizard's realm, is to avoid his capricious tricks and learn to control his magic.
+
+Like its predecessor, Zork II is essentially a treasure hunt. Unlike the previous game, the ten treasures are tied together by a crude plot. Finding the treasures does not end the game, nor are all the treasures needed to finish the game. Instead, the adventurer must figure out a way to use the treasures in order to reach the game's finale.</desc>
+	<path>./zork3.z3</path>
+	<desc>In the third game of the adventure game series Zork, you are once again a nameless adventurer, only this time you won't travel through a beautiful magical land, but are immediately cast into a deep dungeon. Like in a dream, you hear a mysterious voice telling you that you have passed all the tests but one. When conscience returns to you, you find yourself on the endless spiral of stairs, with only your trusty lantern near you... will you be able to survive the horrors of the Dungeon?</desc>
+	<path>./A Mind Forever Voyaging.z4</path>
+	<desc>A Mind Forever Voyaging is a text-based interactive fiction game. The player reads descriptions which detail the surroundings and communicates with the game by typing in commands. Most of the time is spent in simulation mode where the player repeatedly visits the town of Rockvil and needs to record situations of everyday or special activities going on. If the player has recorded enough, the game progresses and the simulation ten years ahead can be visited. However, the recording device has no unlimited capacity - when full, the player needs to exit the simulation and let the recordings review by the project leader. Then the current simulation can be simply started again from the start to find new situations - the same applies when dying.</desc>
+	<path>./Ballyhoo.z4</path>
+	<path>./Beyond Zork.z4</path>
+	<path>./Border Zone.z4</path>
+	<path>./Bureaucracy.z4</path>
+	<path>./Cutthroats.z4</path>
+	<desc>You live on small seaport Island called Hardscrabble -- hardly the hip place to be. Working as a professional scuba diver, you have the chance to salvage a sunken treasure from one of four shipwrecks, earn the respect of all the old farts and become wealthy beyond all imagination.</desc>
+	<path>./Deadline.z4</path>
+	<path>./Enchanter.z4</path>
+	<path>./Hitchhiker's Guide to the Galaxy.z4</path>
+	<desc>You are Arthur Dent, an Englishman with a bad hangover wearing a dressing gown containing a much needed buffered analgesic and some fluff. Your house has just been destroyed, followed shortly thereafter by your planet Earth (mostly harmless). You’ve been rescued by your friend Ford Prefect, who’s not actually an out-of-work actor. He has given you a book (The Hitchhiker’s Guide to the Galaxy), a towel, and is now telling you to put a fish in your ear. It must be a Thursday; you’ve never quite gotten the hang of Thursdays.
+
+The Hitchhiker’s Guide to the Galaxy is written by Douglas Adams and Steven Meretzky and based on Adams’ BBC radio series, television series, and the series of subsequent novelizations. It’s one of the classic Interactive Fiction games produced by Infocom, labeled as Science Fiction and has a Standard Level of Difficulty. Though divergent from the source material, the main characters, locations, and concepts are here. Unlike the book, death can come quickly if Arthur fails to observe his surroundings, collect inventory, talk to people, and consult the Guide. DON’T PANIC!</desc>
+	<path>./Hollywood Hijinx.z4</path>
+	<path>./Infidel.z4</path>
+	<path>./Leather Goddeses of Phobos.z4</path>
+	<desc>The year is 1936, and suddenly the protagonist is abducted by the Leather Goddesses for the final testing in the plan which will enslave every man and woman on earth. These Leather Goddesses of Phobos are just finishing up their plans for the invasion of Earth. If the hero fails to escape and save humanity, the Leather Goddesses will turn the Earth into their pleasure dome.
+
+Leather Goddesses of Phobos is a text adventure with humorous overtones. The player uses standard commands in the text parser to observe his environment and pick up items. The game's 'naughtiness' level can be adjusted between Tame (G), Suggestive (PG), and Lewd (R).</desc>
+	<path>./Moonmist.z4</path>
+	<path>./Nord and Bert Couldn't Make Head or Tail of it.z4</path>
+	<desc>Nord and Bert Couldn't Make Head or Tail of It is a text adventure game revolving around puns and wordplays. Idioms and clichés have become real-world objects in the town of Punster, and the player has to sort them out in order to win. There are seven separate scenarios that can be played in any order, as well as the final one that can be accessed only after having completed all seven. These scenarios are:
+
+- The Shopping Bizarre: Products in a grocery store have been replaced by nonsensical homonyms (such as "chocolate moose"), and the player has to revert them to their normal form.
+
+- Playing Jacks: Equipped with an item called "Jack of All Traits", the player has to construct words beginning with "Jack" to solve puzzles.
+
+- Buy the Farm: Clichéd expressions must be used in their literal meaning while exploring a farm.
+
+- Eat Your Words: More literal idioms used in a diner.
+
+- Act the Part: The protagonist is teleported into a 1950's-style sitcom, where he must perform visual gags.
+
+- Manor of Speaking: The protagonist explores a strange house in a more traditional humorous Infocom-style manner.
+
+- Shake a Tower: Letters in expressions have to be re-arranged to create humorous new meanings.
+
+- Meet the Mayor: The final chapter of the game, mixing elements of the others as the protagonist faces the mayor of Punster.</desc>
+	<path>./Planetfall.z4</path>
+	<desc>Planetfall teleports you 12,000 years into an outrageous future. You joined the Stellar Patrol to explore the galaxy, but all you've seen is the end of a mop - until your ship explodes and you're jettisoned onto a mysterious, deserted planet. Luckily, you have Floyd, a lovable multi-purpose robot with the personality of a mischievous 8-year-old. He's the ideal companion with whom to brave your new world, as you dare its dangers and uncover its secrets.</desc>
+	<path>./Plundered Hearts.z4</path>
+	<desc>Plundered Hearts is an interactive fiction computer game created by Amy Briggs and published by Infocom in 1987. It was released simultaneously for several popular computer platforms of the time, such as the PC and Commodore 64. Plundered Hearts was Infocom's first (and only) game in the "romance" genre. It is Infocom's twenty-eighth game.</desc>
+	<path>./Seastalker.z4</path>
+	<path>./Sherlock The Riddle of the Crown Jewels.z4</path>
+	<path>./Sorcerer.z4</path>
+	<path>./Spellbreaker.z4</path>
+	<path>./Starcross.z4</path>
+	<path>./Stationfall.z4</path>
+	<path>./Suspect.z4</path>
+	<path>./Suspended.z4</path>
+	<path>./The Lurking Horror.z4</path>
+	<desc>The Lurking Horror is an interactive fiction game released by Infocom in 1987. The game was written by Dave Lebling and inspired by the horror fiction writings of H. P. Lovecraft (including his Cthulhu Mythos). Like most of Infocom's games, it was released for several platforms simultaneously thanks to the Z-machine.
+
+The original release included versions for DOS, the Apple II, Atari ST, Atari 8-bit family and Commodore 64. Later, it was ported to the Amiga with the addition of sound effects, making it the first title with that feature. The effects would play at appropriate times in the game in an effort to intensify the horror atmosphere. This marked one of the few major additions to the Z-machine with the exception of graphics; traditionally, Infocom had eschewed such changes in favor of expanding the parser capacity and overall size of game files. It was Infocom's 26th game; Infocom rated it as "Standard" in terms of difficulty. Lurking Horror was the only horror game ever released by Infocom.</desc>
+	<path>./Trinity.z4</path>
+	<desc>Trinity is an interactive fiction computer game written by Brian Moriarty and published in 1986 by Infocom. It is widely regarded as one of the company's best works.</desc>
+	<path>./Witness.z4</path>
+	<path>./zork1.z4</path>
+	<desc>The game takes place in the Zork calendar year 948 GUE (although the passage of time is not notable in gameplay). The player steps into the deliberately vague role of an "adventurer". The game begins near a white house in a small, self-contained area. Although the player is given little instruction, the house provides an obvious point of interest.
+
+When the player enters the house, it yields a number of intriguing objects: an ancient brass lantern, an empty trophy case, an intricately engraved sword, etc. Beneath the rug a trap door leads down into a dark dungeon. But what initially appears to be a dungeon is actually one of several entrances to a vast subterranean land—the Great Underground Empire. The player soon encounters dangerous creatures, including deadly grues, an axe-wielding troll, a giant cyclops and a nimble-fingered thief.
+
+The ultimate goal of Zork I is to collect the Twenty Treasures of Zork and install them in the trophy case. Finding the treasures requires solving a variety of puzzles such as the navigation of two brutal mazes and some intricate manipulations at Flood Control Dam #3.</desc>
+	<path>./zork2.z4</path>
+	<desc>The AFGNCAAP begins in the Barrow from Zork I armed only with the trusty brass lantern and sword of elvish antiquity. The purpose of the game is not initially clear.
+
+The Wizard of Frobozz is soon introduced. The wizard was once a respected enchanter, but when his powers began to fade he was exiled by Dimwit Flathead. Now bordering on senility, the wizard is still a force to be reckoned with. Your goal, as you venture into the wizard's realm, is to avoid his capricious tricks and learn to control his magic.
+
+Like its predecessor, Zork II is essentially a treasure hunt. Unlike the previous game, the ten treasures are tied together by a crude plot. Finding the treasures does not end the game, nor are all the treasures needed to finish the game. Instead, the adventurer must figure out a way to use the treasures in order to reach the game's finale.</desc>
+	<path>./zork3.z4</path>
+	<desc>In the third game of the adventure game series Zork, you are once again a nameless adventurer, only this time you won't travel through a beautiful magical land, but are immediately cast into a deep dungeon. Like in a dream, you hear a mysterious voice telling you that you have passed all the tests but one. When conscience returns to you, you find yourself on the endless spiral of stairs, with only your trusty lantern near you... will you be able to survive the horrors of the Dungeon?</desc>
+	<path>./A Mind Forever Voyaging.z5</path>
+	<desc>A Mind Forever Voyaging is a text-based interactive fiction game. The player reads descriptions which detail the surroundings and communicates with the game by typing in commands. Most of the time is spent in simulation mode where the player repeatedly visits the town of Rockvil and needs to record situations of everyday or special activities going on. If the player has recorded enough, the game progresses and the simulation ten years ahead can be visited. However, the recording device has no unlimited capacity - when full, the player needs to exit the simulation and let the recordings review by the project leader. Then the current simulation can be simply started again from the start to find new situations - the same applies when dying.</desc>
+	<path>./Ballyhoo.z5</path>
+	<path>./Beyond Zork.z5</path>
+	<path>./Border Zone.z5</path>
+	<path>./Bureaucracy.z5</path>
+	<path>./Cutthroats.z5</path>
+	<desc>You live on small seaport Island called Hardscrabble -- hardly the hip place to be. Working as a professional scuba diver, you have the chance to salvage a sunken treasure from one of four shipwrecks, earn the respect of all the old farts and become wealthy beyond all imagination.</desc>
+	<path>./Deadline.z5</path>
+	<path>./Enchanter.z5</path>
+	<path>./Hitchhiker's Guide to the Galaxy.z5</path>
+	<desc>You are Arthur Dent, an Englishman with a bad hangover wearing a dressing gown containing a much needed buffered analgesic and some fluff. Your house has just been destroyed, followed shortly thereafter by your planet Earth (mostly harmless). You’ve been rescued by your friend Ford Prefect, who’s not actually an out-of-work actor. He has given you a book (The Hitchhiker’s Guide to the Galaxy), a towel, and is now telling you to put a fish in your ear. It must be a Thursday; you’ve never quite gotten the hang of Thursdays.
+
+The Hitchhiker’s Guide to the Galaxy is written by Douglas Adams and Steven Meretzky and based on Adams’ BBC radio series, television series, and the series of subsequent novelizations. It’s one of the classic Interactive Fiction games produced by Infocom, labeled as Science Fiction and has a Standard Level of Difficulty. Though divergent from the source material, the main characters, locations, and concepts are here. Unlike the book, death can come quickly if Arthur fails to observe his surroundings, collect inventory, talk to people, and consult the Guide. DON’T PANIC!</desc>
+	<path>./Hollywood Hijinx.z5</path>
+	<path>./Infidel.z5</path>
+	<path>./Leather Goddeses of Phobos.z5</path>
+	<desc>The year is 1936, and suddenly the protagonist is abducted by the Leather Goddesses for the final testing in the plan which will enslave every man and woman on earth. These Leather Goddesses of Phobos are just finishing up their plans for the invasion of Earth. If the hero fails to escape and save humanity, the Leather Goddesses will turn the Earth into their pleasure dome.
+
+Leather Goddesses of Phobos is a text adventure with humorous overtones. The player uses standard commands in the text parser to observe his environment and pick up items. The game's 'naughtiness' level can be adjusted between Tame (G), Suggestive (PG), and Lewd (R).</desc>
+	<path>./Moonmist.z5</path>
+	<path>./Nord and Bert Couldn't Make Head or Tail of it.z5</path>
+	<desc>Nord and Bert Couldn't Make Head or Tail of It is a text adventure game revolving around puns and wordplays. Idioms and clichés have become real-world objects in the town of Punster, and the player has to sort them out in order to win. There are seven separate scenarios that can be played in any order, as well as the final one that can be accessed only after having completed all seven. These scenarios are:
+
+- The Shopping Bizarre: Products in a grocery store have been replaced by nonsensical homonyms (such as "chocolate moose"), and the player has to revert them to their normal form.
+
+- Playing Jacks: Equipped with an item called "Jack of All Traits", the player has to construct words beginning with "Jack" to solve puzzles.
+
+- Buy the Farm: Clichéd expressions must be used in their literal meaning while exploring a farm.
+
+- Eat Your Words: More literal idioms used in a diner.
+
+- Act the Part: The protagonist is teleported into a 1950's-style sitcom, where he must perform visual gags.
+
+- Manor of Speaking: The protagonist explores a strange house in a more traditional humorous Infocom-style manner.
+
+- Shake a Tower: Letters in expressions have to be re-arranged to create humorous new meanings.
+
+- Meet the Mayor: The final chapter of the game, mixing elements of the others as the protagonist faces the mayor of Punster.</desc>
+	<path>./Planetfall.z5</path>
+	<desc>Planetfall teleports you 12,000 years into an outrageous future. You joined the Stellar Patrol to explore the galaxy, but all you've seen is the end of a mop - until your ship explodes and you're jettisoned onto a mysterious, deserted planet. Luckily, you have Floyd, a lovable multi-purpose robot with the personality of a mischievous 8-year-old. He's the ideal companion with whom to brave your new world, as you dare its dangers and uncover its secrets.</desc>
+	<path>./Plundered Hearts.z5</path>
+	<desc>Plundered Hearts is an interactive fiction computer game created by Amy Briggs and published by Infocom in 1987. It was released simultaneously for several popular computer platforms of the time, such as the PC and Commodore 64. Plundered Hearts was Infocom's first (and only) game in the "romance" genre. It is Infocom's twenty-eighth game.</desc>
+	<path>./Seastalker.z5</path>
+	<path>./Sherlock The Riddle of the Crown Jewels.z5</path>
+	<path>./Sorcerer.z5</path>
+	<path>./Spellbreaker.z5</path>
+	<path>./Starcross.z5</path>
+	<path>./Stationfall.z5</path>
+	<path>./Suspect.z5</path>
+	<path>./Suspended.z5</path>
+	<path>./The Lurking Horror.z5</path>
+	<desc>The Lurking Horror is an interactive fiction game released by Infocom in 1987. The game was written by Dave Lebling and inspired by the horror fiction writings of H. P. Lovecraft (including his Cthulhu Mythos). Like most of Infocom's games, it was released for several platforms simultaneously thanks to the Z-machine.
+
+The original release included versions for DOS, the Apple II, Atari ST, Atari 8-bit family and Commodore 64. Later, it was ported to the Amiga with the addition of sound effects, making it the first title with that feature. The effects would play at appropriate times in the game in an effort to intensify the horror atmosphere. This marked one of the few major additions to the Z-machine with the exception of graphics; traditionally, Infocom had eschewed such changes in favor of expanding the parser capacity and overall size of game files. It was Infocom's 26th game; Infocom rated it as "Standard" in terms of difficulty. Lurking Horror was the only horror game ever released by Infocom.</desc>
+	<path>./Trinity.z5</path>
+	<desc>Trinity is an interactive fiction computer game written by Brian Moriarty and published in 1986 by Infocom. It is widely regarded as one of the company's best works.</desc>
+	<path>./Witness.z5</path>
+	<path>./zork1.z5</path>
+	<desc>The game takes place in the Zork calendar year 948 GUE (although the passage of time is not notable in gameplay). The player steps into the deliberately vague role of an "adventurer". The game begins near a white house in a small, self-contained area. Although the player is given little instruction, the house provides an obvious point of interest.
+
+When the player enters the house, it yields a number of intriguing objects: an ancient brass lantern, an empty trophy case, an intricately engraved sword, etc. Beneath the rug a trap door leads down into a dark dungeon. But what initially appears to be a dungeon is actually one of several entrances to a vast subterranean land—the Great Underground Empire. The player soon encounters dangerous creatures, including deadly grues, an axe-wielding troll, a giant cyclops and a nimble-fingered thief.
+
+The ultimate goal of Zork I is to collect the Twenty Treasures of Zork and install them in the trophy case. Finding the treasures requires solving a variety of puzzles such as the navigation of two brutal mazes and some intricate manipulations at Flood Control Dam #3.</desc>
+	<path>./zork2.z5</path>
+	<desc>The AFGNCAAP begins in the Barrow from Zork I armed only with the trusty brass lantern and sword of elvish antiquity. The purpose of the game is not initially clear.
+
+The Wizard of Frobozz is soon introduced. The wizard was once a respected enchanter, but when his powers began to fade he was exiled by Dimwit Flathead. Now bordering on senility, the wizard is still a force to be reckoned with. Your goal, as you venture into the wizard's realm, is to avoid his capricious tricks and learn to control his magic.
+
+Like its predecessor, Zork II is essentially a treasure hunt. Unlike the previous game, the ten treasures are tied together by a crude plot. Finding the treasures does not end the game, nor are all the treasures needed to finish the game. Instead, the adventurer must figure out a way to use the treasures in order to reach the game's finale.</desc>
+	<path>./zork3.z5</path>
+	<desc>In the third game of the adventure game series Zork, you are once again a nameless adventurer, only this time you won't travel through a beautiful magical land, but are immediately cast into a deep dungeon. Like in a dream, you hear a mysterious voice telling you that you have passed all the tests but one. When conscience returns to you, you find yourself on the endless spiral of stairs, with only your trusty lantern near you... will you be able to survive the horrors of the Dungeon?</desc>

@@ -1,0 +1,1319 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Alfred Chicken (Europe).uae</path>
+		<name>Alfred Chicken (Europe)</name>
+		<image>./boxart/Alfred Chicken (Europe).png</image>
+		<marquee>./wheel/Alfred Chicken (Europe).png</marquee>
+		<video>./snap/Alfred Chicken (Europe).mp4</video>
+		<desc>Alfred Chicken is an action-adventure game originally created by Twilight. It was released in the United Kingdom in 1993 for the Amiga, Amiga CD32, Nintendo Entertainment System and Game Boy. It was released in the United States in February 1994 for the Game Boy, Nintendo Entertainment System and the Super Nintendo Entertainment System. Within PAL-A regions, it was only released in the UK.
+
+The player takes the role of a chicken named Alfred who must find his way through bizarre levels full of balloons, telephones, cheese and other strange elements. While he is on the ground, Alfred can walk, jump, and peck balloons and ground switches. While he is in the air he can dive bomb enemies or springs. Dive bombing enemies will destroy them. Dive bombing springs will bounce Alfred much higher so he can reach platforms well above his normal jumping ability. If he does not hit an enemy or a spring, Alfred will get stuck in the ground for a short time.
+
+To complete a level, Alfred must find and peck all the balloons. The last balloon will take him to a boss fight. If Alfred dies, he starts as an egg located at the last balloon pecked.
+
+Alfred can receive a few powerups during the game. For one power up, he must answer a telephone in secret areas to make Mr Pekles (a giant flower) give him a pot of jam. The jam gives Alfred the ability to shoot a bomb (about the size of Alfred himself) which bounces around the screen collecting things and hurting enemies. Another power up is a worm that spins around Alfred destroying enemies that it touches. You must find a can of worms to get this power up.
+
+Source: Wikipedia</desc>
+		<releasedate>1993</releasedate>
+		<developer>Twilight</developer>
+		<publisher>Mindscape</publisher>
+		<genre>animalprotagonist, cartoonish, cute, jumponthings, multidirectional, platform, scrolling, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Alien Breed 3D (Europe).uae</path>
+		<name>Alien Breed 3D (Europe)</name>
+		<image>./boxart/Alien Breed 3D (Europe).png</image>
+		<marquee>./wheel/Alien Breed 3D (Europe).png</marquee>
+		<video>./snap/Alien Breed 3D (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Ocean</publisher>
+		<genre>3d, action, aliens, fps, futuristic, scifi, space</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Alien Breed Tower Assault (Europe).uae</path>
+		<name>Alien Breed Tower Assault (Europe)</name>
+		<image>./boxart/Alien Breed Tower Assault (Europe).png</image>
+		<marquee>./wheel/Alien Breed Tower Assault (Europe).png</marquee>
+		<video>./snap/Alien Breed Tower Assault (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>action, aliens, cooperative, futuristic, gauntlet, multidirectional, scary, scifi, scrolling, shooter, shop, space, topdown</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Arabian Nights (Europe).uae</path>
+		<name>Arabian Nights (Europe)</name>
+		<image>./boxart/Arabian Nights (Europe).png</image>
+		<marquee>./wheel/Arabian Nights (Europe).png</marquee>
+		<video>./snap/Arabian Nights (Europe).mp4</video>
+		<desc>Arabian Nights is a 1994 platform game first released on the Commodore Amiga which was highly rated from reviewers receiving 90% from CU Amiga and 83% from Amiga Joker. The game was originally released on two floppy disks but later became available on CD for the Amiga CD32 release.
+
+The player controls the hero of the game, Sinbad Jnr, a lowly gardener who witnesses the kidnap of the princess by a dragon. After Sinbad Jnr tries to save her from the flying dragon, he ends up falling back to Earth and becoming unconscious before awakening in a prison accused of sorcery and capturing the woman he tried to save.
+
+Source: Wikipedia</desc>
+		<releasedate>1993</releasedate>
+		<developer>Krisalis</developer>
+		<publisher>Krisalis</publisher>
+		<genre>arabic, cute, magic, multidirectional, platform, scrolling, shop, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Arcade Pool (Europe).uae</path>
+		<name>Arcade Pool (Europe)</name>
+		<image>./boxart/Arcade Pool (Europe).png</image>
+		<marquee>./wheel/Arcade Pool (Europe).png</marquee>
+		<video>./snap/Arcade Pool (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>competitive, pool, realistic, simulator, sport, topdown</genre>
+		<players>1 - 8 (1)</players>
+	</game>
+	<game>
+		<path>./Banshee (Europe).uae</path>
+		<name>Banshee (Europe)</name>
+		<image>./boxart/Banshee (Europe).png</image>
+		<marquee>./wheel/Banshee (Europe).png</marquee>
+		<video>./snap/Banshee (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Core</developer>
+		<publisher>Core</publisher>
+		<genre>airplane, autoscroll, powerups, shootemup, steampunk, topdown, vertical</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Base Jumpers (Europe).uae</path>
+		<name>Base Jumpers (Europe)</name>
+		<image>./boxart/Base Jumpers (Europe).png</image>
+		<marquee>./wheel/Base Jumpers (Europe).png</marquee>
+		<video>./snap/Base Jumpers (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer>Rasputin Software</developer>
+		<publisher>Grandslam</publisher>
+		<genre>comedy, competitive, platform, scrolling, sideways, vertical</genre>
+		<players>1 - 4 (4)</players>
+	</game>
+	<game>
+		<path>./Battle Chess (Europe).uae</path>
+		<name>Battle Chess (Europe)</name>
+		<image>./boxart/Battle Chess (Europe).png</image>
+		<marquee>./wheel/Battle Chess (Europe).png</marquee>
+		<video>./snap/Battle Chess (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Almathera</developer>
+		<publisher>Interplay</publisher>
+		<genre>boardgame, chess, competitive, strategy</genre>
+		<players>1 - 2 (1)</players>
+	</game>
+	<game>
+		<path>./Battletoads (Europe).uae</path>
+		<name>Battletoads (Europe)</name>
+		<image>./boxart/Battletoads (Europe).png</image>
+		<marquee>./wheel/Battletoads (Europe).png</marquee>
+		<video>./snap/Battletoads (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Mindscape</publisher>
+		<genre></genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Beneath A Steel Sky (Europe) (No Voice).uae</path>
+		<name>Beneath a Steel Sky (No Voice) (Europe)</name>
+		<image>./boxart/Beneath A Steel Sky (Europe) (No Voice).png</image>
+		<marquee>./wheel/Beneath A Steel Sky (Europe) (No Voice).png</marquee>
+		<video>./snap/Beneath A Steel Sky (Europe) (No Voice).mp4</video>
+		<desc>Beneath a Steel Sky is a 2D adventure game played from a third-person perspective. The player uses a point-and-click interface to interact with the environment and to guide protagonist Robert Foster through the game's world. To solve puzzles and progress in the game, the player collects items that may be combined with one another, used on the environment, or given to non-player characters (NPCs). The protagonist converses with NPCs via dialogue trees to learn about the game's puzzles and plot. Clues and other information are obtained by clicking on items in the inventory and on objects in the environment. Unlike in most adventure games at the time, the protagonist's death is possible, after which the player starts from the last save point. In the remastered iOS version, the point-and-click interface is replaced with a touch user interface, a hint system is added, and hotspots are highlighted. Source: Wikipedia</desc>
+		<releasedate>1994</releasedate>
+		<developer>Revolution</developer>
+		<publisher>Virgin</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Beneath A Steel Sky (Europe).uae</path>
+		<name>Beneath a Steel Sky (Europe)</name>
+		<image>./boxart/Beneath A Steel Sky (Europe).png</image>
+		<marquee>./wheel/Beneath A Steel Sky (Europe).png</marquee>
+		<video>./snap/Beneath A Steel Sky (Europe).mp4</video>
+		<desc>Beneath a Steel Sky is a 2D adventure game played from a third-person perspective. The player uses a point-and-click interface to interact with the environment and to guide protagonist Robert Foster through the game's world. To solve puzzles and progress in the game, the player collects items that may be combined with one another, used on the environment, or given to non-player characters (NPCs). The protagonist converses with NPCs via dialogue trees to learn about the game's puzzles and plot. Clues and other information are obtained by clicking on items in the inventory and on objects in the environment. Unlike in most adventure games at the time, the protagonist's death is possible, after which the player starts from the last save point. In the remastered iOS version, the point-and-click interface is replaced with a touch user interface, a hint system is added, and hotspots are highlighted. Source: Wikipedia</desc>
+		<releasedate>1994</releasedate>
+		<developer>Revolution</developer>
+		<publisher>Virgin</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Benefactor (Europe).uae</path>
+		<name>Benefactor (Europe)</name>
+		<image>./boxart/Benefactor (Europe).png</image>
+		<marquee>./wheel/Benefactor (Europe).png</marquee>
+		<video>./snap/Benefactor (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>Psygnosis</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Black Viper (Europe).uae</path>
+		<name>Black Viper (Europe)</name>
+		<image>./boxart/Black Viper (Europe).png</image>
+		<marquee>./wheel/Black Viper (Europe).png</marquee>
+		<video>./snap/Black Viper (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1996</releasedate>
+		<developer>Light Shock</developer>
+		<publisher>neo</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Brutal Football (Europe).uae</path>
+		<name>Brutal Football (Europe)</name>
+		<image>./boxart/Brutal Football (Europe).png</image>
+		<marquee>./wheel/Brutal Football (Europe).png</marquee>
+		<video>./snap/Brutal Football (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Teque</developer>
+		<publisher>Millennium</publisher>
+		<genre></genre>
+		<players>1 - 8 (2)</players>
+	</game>
+	<game>
+		<path>./Brutal Paws Of Fury (Europe).uae</path>
+		<name>Brutal Paws of Fury (Europe)</name>
+		<image>./boxart/Brutal Paws Of Fury (Europe).png</image>
+		<marquee>./wheel/Brutal Paws Of Fury (Europe).png</marquee>
+		<video>./snap/Brutal Paws Of Fury (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer></developer>
+		<publisher>Gametek</publisher>
+		<genre></genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Bubba'N'Stix (Europe).uae</path>
+		<name>Bubba 'n' Stix (Europe)</name>
+		<image>./boxart/Bubba'N'Stix (Europe).png</image>
+		<marquee>./wheel/Bubba'N'Stix (Europe).png</marquee>
+		<video>./snap/Bubba'N'Stix (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Bubble & Squeak (Europe).uae</path>
+		<name>Bubble and Squeak (Europe)</name>
+		<image>./boxart/Bubble & Squeak (Europe).png</image>
+		<marquee>./wheel/Bubble & Squeak (Europe).png</marquee>
+		<video>./snap/Bubble & Squeak (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Audiogenic</developer>
+		<publisher>Audiogenic</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Bump 'N' Burn (Europe).uae</path>
+		<name>Bump 'n' Burn (Europe)</name>
+		<image>./boxart/Bump 'N' Burn (Europe).png</image>
+		<marquee>./wheel/Bump 'N' Burn (Europe).png</marquee>
+		<video>./snap/Bump 'N' Burn (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>The Dome</developer>
+		<publisher>Grandslam</publisher>
+		<genre>racing</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Cannon Fodder (Europe).uae</path>
+		<name>Cannon Fodder (Europe)</name>
+		<image>./boxart/Cannon Fodder (Europe).png</image>
+		<marquee>./wheel/Cannon Fodder (Europe).png</marquee>
+		<video>./snap/Cannon Fodder (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Sensible</developer>
+		<publisher>Virgin</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Castles 2 (Europe).uae</path>
+		<name>Castles II Siege and Conquest (Europe)</name>
+		<image>./boxart/Castles 2 (Europe).png</image>
+		<marquee>./wheel/Castles 2 (Europe).png</marquee>
+		<video>./snap/Castles 2 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer>Almathera</developer>
+		<publisher>Interplay</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Cedric (Europe) (Fast).uae</path>
+		<name>Cedric and the Lost Sceptre (Fast) (Europe)</name>
+		<image>./boxart/Cedric (Europe) (Fast).png</image>
+		<marquee>./wheel/Cedric (Europe) (Fast).png</marquee>
+		<video>./snap/Cedric (Europe) (Fast).mp4</video>
+		<desc></desc>
+		<releasedate>1996</releasedate>
+		<developer>Alcatraz</developer>
+		<publisher>neo</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Cedric (Europe).uae</path>
+		<name>Cedric and the Lost Sceptre (Europe)</name>
+		<image>./boxart/Cedric (Europe).png</image>
+		<marquee>./wheel/Cedric (Europe).png</marquee>
+		<video>./snap/Cedric (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1996</releasedate>
+		<developer>Alcatraz</developer>
+		<publisher>neo</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Chaos Engine (Europe).uae</path>
+		<name>The Chaos Engine (Europe)</name>
+		<image>./boxart/Chaos Engine (Europe).png</image>
+		<marquee>./wheel/Chaos Engine (Europe).png</marquee>
+		<video>./snap/Chaos Engine (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Bitmap Brothers</developer>
+		<publisher>Renegade</publisher>
+		<genre>cooperative, shooter, steampunk, topdown</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Chuck Rock 2 (Europe).uae</path>
+		<name>Chuck Rock II Son of Chuck (Europe)</name>
+		<image>./boxart/Chuck Rock 2 (Europe).png</image>
+		<marquee>./wheel/Chuck Rock 2 (Europe).png</marquee>
+		<video>./snap/Chuck Rock 2 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Core Design</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Chuck Rock (Europe).uae</path>
+		<name>Chuck Rock (Europe)</name>
+		<image>./boxart/Chuck Rock (Europe).png</image>
+		<marquee>./wheel/Chuck Rock (Europe).png</marquee>
+		<video>./snap/Chuck Rock (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Core</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Clockwiser (Europe).uae</path>
+		<name>Clockwiser (Europe)</name>
+		<image>./boxart/Clockwiser (Europe).png</image>
+		<marquee>./wheel/Clockwiser (Europe).png</marquee>
+		<video>./snap/Clockwiser (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Team Hoi</developer>
+		<publisher>Rasputin</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./D-Generation (Europe).uae</path>
+		<name>D-Generation (Europe)</name>
+		<image>./boxart/D-Generation (Europe).png</image>
+		<marquee>./wheel/D-Generation (Europe).png</marquee>
+		<video>./snap/D-Generation (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer></developer>
+		<publisher>Mindscape</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dark Seed (Europe).uae</path>
+		<name>Dark Seed (Europe)</name>
+		<image>./boxart/Dark Seed (Europe).png</image>
+		<marquee>./wheel/Dark Seed (Europe).png</marquee>
+		<video>./snap/Dark Seed (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Cyberdreams</publisher>
+		<genre>adventure, giger, horror, pointandclick, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Defender Of The Crown 2 (Europe).uae</path>
+		<name>Defender of the Crown II (Europe)</name>
+		<image>./boxart/Defender Of The Crown 2 (Europe).png</image>
+		<marquee>./wheel/Defender Of The Crown 2 (Europe).png</marquee>
+		<video>./snap/Defender Of The Crown 2 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer>Master Designer</developer>
+		<publisher>Commodore</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dennis (Europe).uae</path>
+		<name>Dennis (Europe)</name>
+		<image>./boxart/Dennis (Europe).png</image>
+		<marquee>./wheel/Dennis (Europe).png</marquee>
+		<video>./snap/Dennis (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>movie</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Diggers (Europe).uae</path>
+		<name>Diggers (Europe)</name>
+		<image>./boxart/Diggers (Europe).png</image>
+		<marquee>./wheel/Diggers (Europe).png</marquee>
+		<video>./snap/Diggers (Europe).mp4</video>
+		<desc>Diggers is a Lemmings-style puzzle game where you command five alien miners (from a choice of four clans) and various gadgets to dig for treasure. The game is divided in excavation areas. Each area has a set amount of money you must raise before moving into the next one. To do so, you must sell your collected treasure to the bank.
+
+You select your "Diggers" by clicking on them with the left mouse button, and making them do a desired action by right-clicking on the screen and choosing from a icon menu.
+
+Each clan has different characteristics and stats: for example the Grablins clan resembles fantasy dwarfs and has the fastest diggers. The Quarriors clan has the strongest miners, less likely to die in a fight with enemy diggers.</desc>
+		<releasedate>1993</releasedate>
+		<developer></developer>
+		<publisher>Millennium</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Disposable Hero (Europe).uae</path>
+		<name>Disposable Hero (Europe)</name>
+		<image>./boxart/Disposable Hero (Europe).png</image>
+		<marquee>./wheel/Disposable Hero (Europe).png</marquee>
+		<video>./snap/Disposable Hero (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Gremlin</publisher>
+		<genre>horizontal, shootemup, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dragonstone (Europe).uae</path>
+		<name>Dragonstone (Europe)</name>
+		<image>./boxart/Dragonstone (Europe).png</image>
+		<marquee>./wheel/Dragonstone (Europe).png</marquee>
+		<video>./snap/Dragonstone (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer></developer>
+		<publisher>Core</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fears (Europe).uae</path>
+		<name>Fears (Europe)</name>
+		<image>./boxart/Fears (Europe).png</image>
+		<marquee>./wheel/Fears (Europe).png</marquee>
+		<video>./snap/Fears (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer></developer>
+		<publisher>Guildhall / Manyk / attic</publisher>
+		<genre></genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Fightin Spirit (Europe).uae</path>
+		<name>Fightin' Spirit (Europe)</name>
+		<image>./boxart/Fightin Spirit (Europe).png</image>
+		<marquee>./wheel/Fightin Spirit (Europe).png</marquee>
+		<video>./snap/Fightin Spirit (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1996</releasedate>
+		<developer>Light Shock</developer>
+		<publisher>neo</publisher>
+		<genre></genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Fire & Ice (Europe).uae</path>
+		<name>Fire & Ice (Europe)</name>
+		<image>./boxart/Fire & Ice (Europe).png</image>
+		<marquee>./wheel/Fire & Ice (Europe).png</marquee>
+		<video>./snap/Fire & Ice (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Renegade</publisher>
+		<genre>animalprotagonist, horizontal, jumper, platform, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fire Force (Europe).uae</path>
+		<name>Fire Force (Europe)</name>
+		<image>./boxart/Fire Force (Europe).png</image>
+		<marquee>./wheel/Fire Force (Europe).png</marquee>
+		<video>./snap/Fire Force (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>ICE</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Flink (Europe).uae</path>
+		<name>Flink (Europe)</name>
+		<image>./boxart/Flink (Europe).png</image>
+		<marquee>./wheel/Flink (Europe).png</marquee>
+		<video>./snap/Flink (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer></developer>
+		<publisher>Psygnosis</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fly Harder (Europe).uae</path>
+		<name>Fly Harder (Europe)</name>
+		<image>./boxart/Fly Harder (Europe).png</image>
+		<marquee>./wheel/Fly Harder (Europe).png</marquee>
+		<video>./snap/Fly Harder (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Buzz</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Frontier - Elite 2 (Europe).uae</path>
+		<name>Frontier Elite II (Europe)</name>
+		<image>./boxart/Frontier - Elite 2 (Europe).png</image>
+		<marquee>./wheel/Frontier - Elite 2 (Europe).png</marquee>
+		<video>./snap/Frontier - Elite 2 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer></developer>
+		<publisher>Gametek</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fury Of The Furries (Europe).uae</path>
+		<name>Fury of the Furries (Europe)</name>
+		<image>./boxart/Fury Of The Furries (Europe).png</image>
+		<marquee>./wheel/Fury Of The Furries (Europe).png</marquee>
+		<video>./snap/Fury Of The Furries (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Mindscape</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Gloom (Europe).uae</path>
+		<name>Gloom (Europe)</name>
+		<image>./boxart/Gloom (Europe).png</image>
+		<marquee>./wheel/Gloom (Europe).png</marquee>
+		<video>./snap/Gloom (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer></developer>
+		<publisher>Guildhall</publisher>
+		<genre>firstperson, scifi, shooter</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Guardian (Europe).uae</path>
+		<name>Guardian (Europe)</name>
+		<image>./boxart/Guardian (Europe).png</image>
+		<marquee>./wheel/Guardian (Europe).png</marquee>
+		<video>./snap/Guardian (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Acid</publisher>
+		<genre></genre>
+		<players>1 - 2 (1)</players>
+	</game>
+	<game>
+		<path>./Gunship 2000 (Europe).uae</path>
+		<name>Gunship 2000 (Europe)</name>
+		<image>./boxart/Gunship 2000 (Europe).png</image>
+		<marquee>./wheel/Gunship 2000 (Europe).png</marquee>
+		<video>./snap/Gunship 2000 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>MicroProse</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Heimdall 2 (Europe).uae</path>
+		<name>Heimdall 2 Into the Hall of Worlds (Europe)</name>
+		<image>./boxart/Heimdall 2 (Europe).png</image>
+		<marquee>./wheel/Heimdall 2 (Europe).png</marquee>
+		<video>./snap/Heimdall 2 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Core</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Humans (Europe).uae</path>
+		<name>The Humans (Europe)</name>
+		<image>./boxart/Humans (Europe).png</image>
+		<marquee>./wheel/Humans (Europe).png</marquee>
+		<video>./snap/Humans (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Gametek</publisher>
+		<genre>caveman</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./International Karate + (Europe).uae</path>
+		<name>International Karate + (Europe)</name>
+		<image>./boxart/International Karate + (Europe).png</image>
+		<marquee>./wheel/International Karate + (Europe).png</marquee>
+		<video>./snap/International Karate + (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Software Studios</developer>
+		<publisher>System 3</publisher>
+		<genre>competitive, fighting, humour, oriental, sideways, single</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./James Pond 2 (Europe).uae</path>
+		<name>James Pond 2 Codename RoboCod (Europe)</name>
+		<image>./boxart/James Pond 2 (Europe).png</image>
+		<marquee>./wheel/James Pond 2 (Europe).png</marquee>
+		<video>./snap/James Pond 2 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer>Vectordean</developer>
+		<publisher>Millennium</publisher>
+		<genre>animalprotagonist, christmas, comedy, cute, fantasy, multidirectional, platform, scrolling, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./James Pond 3 (Europe).uae</path>
+		<name>James Pond 3 Operation Starfish (Europe)</name>
+		<image>./boxart/James Pond 3 (Europe).png</image>
+		<marquee>./wheel/James Pond 3 (Europe).png</marquee>
+		<video>./snap/James Pond 3 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Vectordean</developer>
+		<publisher>Millennium</publisher>
+		<genre>animalprotagonist, platform, sideways, stomp</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Jungle Strike (Europe).uae</path>
+		<name>Jungle Strike (Europe)</name>
+		<image>./boxart/Jungle Strike (Europe).png</image>
+		<marquee>./wheel/Jungle Strike (Europe).png</marquee>
+		<video>./snap/Jungle Strike (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Ocean</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Kid Chaos (Europe).uae</path>
+		<name>Kid Chaos (Europe)</name>
+		<image>./boxart/Kid Chaos (Europe).png</image>
+		<marquee>./wheel/Kid Chaos (Europe).png</marquee>
+		<video>./snap/Kid Chaos (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Ocean</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Kingpin (Europe).uae</path>
+		<name>Kingpin Arcade Sports Bowling (Europe)</name>
+		<image>./boxart/Kingpin (Europe).png</image>
+		<marquee>./wheel/Kingpin (Europe).png</marquee>
+		<video>./snap/Kingpin (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer></developer>
+		<publisher>Team 17</publisher>
+		<genre></genre>
+		<players>1 - 6 (1)</players>
+	</game>
+	<game>
+		<path>./Last Ninja 3 (Europe).uae</path>
+		<name>Last Ninja 3 (Europe)</name>
+		<image>./boxart/Last Ninja 3 (Europe).png</image>
+		<marquee>./wheel/Last Ninja 3 (Europe).png</marquee>
+		<video>./snap/Last Ninja 3 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>System 3</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Legends (Europe).uae</path>
+		<name>Legends (Europe)</name>
+		<image>./boxart/Legends (Europe).png</image>
+		<marquee>./wheel/Legends (Europe).png</marquee>
+		<video>./snap/Legends (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1996</releasedate>
+		<developer></developer>
+		<publisher>Manyk / Guildhall</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Lost Vikings (Europe).uae</path>
+		<name>The Lost Vikings (Europe)</name>
+		<image>./boxart/Lost Vikings (Europe).png</image>
+		<marquee>./wheel/Lost Vikings (Europe).png</marquee>
+		<video>./snap/Lost Vikings (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Interplay</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Lotus (Europe).uae</path>
+		<name>Lotus Trilogy (Europe)</name>
+		<image>./boxart/Lotus (Europe).png</image>
+		<marquee>./wheel/Lotus (Europe).png</marquee>
+		<video>./snap/Lotus (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Gremlin</publisher>
+		<genre>behind, competitive, compilation, racing, splitscreen</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Marvin's Marvellous Adventure (Europe).uae</path>
+		<name>Marvin's Marvellous Adventure (Europe)</name>
+		<image>./boxart/Marvin's Marvellous Adventure (Europe).png</image>
+		<marquee>./wheel/Marvin's Marvellous Adventure (Europe).png</marquee>
+		<video>./snap/Marvin's Marvellous Adventure (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer></developer>
+		<publisher>21st Century</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mean Arenas (Europe).uae</path>
+		<name>Mean Arenas (Europe)</name>
+		<image>./boxart/Mean Arenas (Europe).png</image>
+		<marquee>./wheel/Mean Arenas (Europe).png</marquee>
+		<video>./snap/Mean Arenas (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>I.C.E.</publisher>
+		<genre></genre>
+		<players>1 - 2 (1)</players>
+	</game>
+	<game>
+		<path>./Morph (Europe).uae</path>
+		<name>Morph (Europe)</name>
+		<image>./boxart/Morph (Europe).png</image>
+		<marquee>./wheel/Morph (Europe).png</marquee>
+		<video>./snap/Morph (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer>MicroValue</developer>
+		<publisher>Millennium</publisher>
+		<genre>multidirectional, platform, puzzle, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Myth - History In Making (Europe).uae</path>
+		<name>Myth (Europe)</name>
+		<image>./boxart/Myth - History In Making (Europe).png</image>
+		<marquee>./wheel/Myth - History In Making (Europe).png</marquee>
+		<video>./snap/Myth - History In Making (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>System 3</publisher>
+		<genre>basher, egypt, greek, multidirectional, mythology, norse, platform, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Naughty Ones (Europe).uae</path>
+		<name>Naughty Ones (Europe)</name>
+		<image>./boxart/Naughty Ones (Europe).png</image>
+		<marquee>./wheel/Naughty Ones (Europe).png</marquee>
+		<video>./snap/Naughty Ones (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Melon Dezign</developer>
+		<publisher>Interactivision</publisher>
+		<genre>flipscreen, platform, shooter, sideways, singlescreen</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Nick Faldo's Championship Golf (Europe).uae</path>
+		<name>Nick Faldo's Championship Golf (Europe)</name>
+		<image>./boxart/Nick Faldo's Championship Golf (Europe).png</image>
+		<marquee>./wheel/Nick Faldo's Championship Golf (Europe).png</marquee>
+		<video>./snap/Nick Faldo's Championship Golf (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Grandslam</publisher>
+		<genre>behind, golf, intoscreen, sport</genre>
+		<players>1 - 4 (1)</players>
+	</game>
+	<game>
+		<path>./Nigel Mansell's World Championship (Europe).uae</path>
+		<name>Nigel Mansell's World Championship (Europe)</name>
+		<image>./boxart/Nigel Mansell's World Championship (Europe).png</image>
+		<marquee>./wheel/Nigel Mansell's World Championship (Europe).png</marquee>
+		<video>./snap/Nigel Mansell's World Championship (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer></developer>
+		<publisher>Gremlin</publisher>
+		<genre>behind, cars, firstperson, intoscreen, racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Oscar (Europe).uae</path>
+		<name>Oscar (Europe)</name>
+		<image>./boxart/Oscar (Europe).png</image>
+		<marquee>./wheel/Oscar (Europe).png</marquee>
+		<video>./snap/Oscar (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer></developer>
+		<publisher>Flair</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./PGA European Tour (Europe).uae</path>
+		<name>PGA European Tour (Europe)</name>
+		<image>./boxart/PGA European Tour (Europe).png</image>
+		<marquee>./wheel/PGA European Tour (Europe).png</marquee>
+		<video>./snap/PGA European Tour (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer>The Dome</developer>
+		<publisher>Ocean</publisher>
+		<genre>behind, golf, intoscreen, sport</genre>
+		<players>1 - 4 (1)</players>
+	</game>
+	<game>
+		<path>./Pierre Is Out To Lunch (Europe).uae</path>
+		<name>Pierre Le Chef is... Out To Lunch (Europe)</name>
+		<image>./boxart/Pierre Is Out To Lunch (Europe).png</image>
+		<marquee>./wheel/Pierre Is Out To Lunch (Europe).png</marquee>
+		<video>./snap/Pierre Is Out To Lunch (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Mindscape</publisher>
+		<genre>multidirectional, platform, sideways</genre>
+		<players>1 - 2 (1)</players>
+	</game>
+	<game>
+		<path>./Pinball Fantasies (Europe).uae</path>
+		<name>Pinball Fantasies (Europe)</name>
+		<image>./boxart/Pinball Fantasies (Europe).png</image>
+		<marquee>./wheel/Pinball Fantasies (Europe).png</marquee>
+		<video>./snap/Pinball Fantasies (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer></developer>
+		<publisher>21st Century</publisher>
+		<genre>competitive, hotseat, pinball, realistic, scrolling, topdown, vertical</genre>
+		<players>1 - 8 (1)</players>
+	</game>
+	<game>
+		<path>./Pinball Illusions (Europe).uae</path>
+		<name>Pinball Illusions (Europe)</name>
+		<image>./boxart/Pinball Illusions (Europe).png</image>
+		<marquee>./wheel/Pinball Illusions (Europe).png</marquee>
+		<video>./snap/Pinball Illusions (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer></developer>
+		<publisher>21st Century</publisher>
+		<genre>competitive, hotseat, pinball, realistic, scrolling, topdown, vertical</genre>
+		<players>1 - 8 (1)</players>
+	</game>
+	<game>
+		<path>./Pirates Gold (Europe).uae</path>
+		<name>Pirates! Gold (Europe)</name>
+		<image>./boxart/Pirates Gold (Europe).png</image>
+		<marquee>./wheel/Pirates Gold (Europe).png</marquee>
+		<video>./snap/Pirates Gold (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<genre></genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Premiere (Europe).uae</path>
+		<name>Premiere (Europe)</name>
+		<image>./boxart/Premiere (Europe).png</image>
+		<marquee>./wheel/Premiere (Europe).png</marquee>
+		<video>./snap/Premiere (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>The 8th Day</developer>
+		<publisher>Core</publisher>
+		<genre>action, platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Project X - Special Edition (Europe).uae</path>
+		<name>Project-X Special Edition & F17 Challenge (Europe)</name>
+		<image>./boxart/Project X - Special Edition (Europe).png</image>
+		<marquee>./wheel/Project X - Special Edition (Europe).png</marquee>
+		<video>./snap/Project X - Special Edition (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Team 17</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Putty (Europe).uae</path>
+		<name>Super Putty (Europe)</name>
+		<image>./boxart/Putty (Europe).png</image>
+		<marquee>./wheel/Putty (Europe).png</marquee>
+		<video>./snap/Putty (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1992</releasedate>
+		<developer>System 3</developer>
+		<publisher>System 3</publisher>
+		<genre>jumper, platform, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Quik - The Thunder Rabbit (Europe).uae</path>
+		<name>Quik the Thunder Rabbit (Europe)</name>
+		<image>./boxart/Quik - The Thunder Rabbit (Europe).png</image>
+		<marquee>./wheel/Quik - The Thunder Rabbit (Europe).png</marquee>
+		<video>./snap/Quik - The Thunder Rabbit (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Stywox</developer>
+		<publisher>Titus</publisher>
+		<genre>animalprotagonist</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Qwak (Europe).uae</path>
+		<name>Alien Breed Special Edition & Qwak (Europe)</name>
+		<image>./boxart/Qwak (Europe).png</image>
+		<marquee>./wheel/Qwak (Europe).png</marquee>
+		<video>./snap/Qwak (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre></genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Rise Of The Robots (Europe).uae</path>
+		<name>Rise of the Robots (Europe)</name>
+		<image>./boxart/Rise Of The Robots (Europe).png</image>
+		<marquee>./wheel/Rise Of The Robots (Europe).png</marquee>
+		<video>./snap/Rise Of The Robots (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Instinct Design (Mirage)</developer>
+		<publisher>Mirage</publisher>
+		<genre>beatemup, competitive, cyborgs, robots, sideways</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Roadkill (Europe).uae</path>
+		<name>Roadkill (Europe)</name>
+		<image>./boxart/Roadkill (Europe).png</image>
+		<marquee>./wheel/Roadkill (Europe).png</marquee>
+		<video>./snap/Roadkill (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Vision</developer>
+		<publisher>Acid Software</publisher>
+		<genre>cars, multidirectional, racing, topdown</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Sabre Team (Europe).uae</path>
+		<name>Sabre Team (Europe)</name>
+		<image>./boxart/Sabre Team (Europe).png</image>
+		<marquee>./wheel/Sabre Team (Europe).png</marquee>
+		<video>./snap/Sabre Team (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Krisalis</developer>
+		<publisher>Krisalis</publisher>
+		<genre>angle, lasersquad, military, multidirectional, specialforces, strategy, turnbased, wargame</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Sensible Soccer - International Edition (Europe).uae</path>
+		<name>Sensible Soccer International Edition (Europe)</name>
+		<image>./boxart/Sensible Soccer - International Edition (Europe).png</image>
+		<marquee>./wheel/Sensible Soccer - International Edition (Europe).png</marquee>
+		<video>./snap/Sensible Soccer - International Edition (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Apache</developer>
+		<publisher>Renegade</publisher>
+		<genre>football, multidirectional, sport, topdown</genre>
+		<players>1 - 64 (2)</players>
+	</game>
+	<game>
+		<path>./Shadow Fighter (Europe).uae</path>
+		<name>Shadow Fighter (Europe)</name>
+		<image>./boxart/Shadow Fighter (Europe).png</image>
+		<marquee>./wheel/Shadow Fighter (Europe).png</marquee>
+		<video>./snap/Shadow Fighter (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer>N.A.P.S.</developer>
+		<publisher>Gremlin</publisher>
+		<genre>cartoonish, fighting, horizontal, scrolling, sideways</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Skeleton Krew (Europe).uae</path>
+		<name>Skeleton Krew (Europe)</name>
+		<image>./boxart/Skeleton Krew (Europe).png</image>
+		<marquee>./wheel/Skeleton Krew (Europe).png</marquee>
+		<video>./snap/Skeleton Krew (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer></developer>
+		<publisher>Core</publisher>
+		<genre>angle, multidirectional, shooter</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Soccer Kid (Europe).uae</path>
+		<name>Soccer Kid (Europe)</name>
+		<image>./boxart/Soccer Kid (Europe).png</image>
+		<marquee>./wheel/Soccer Kid (Europe).png</marquee>
+		<video>./snap/Soccer Kid (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer>Krisalis</developer>
+		<publisher>Krisalis</publisher>
+		<genre>basher, multidirectional, platform, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Speedball 2 (Europe).uae</path>
+		<name>Speedball 2 Brutal Deluxe (Europe)</name>
+		<image>./boxart/Speedball 2 (Europe).png</image>
+		<marquee>./wheel/Speedball 2 (Europe).png</marquee>
+		<video>./snap/Speedball 2 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>Renegade</publisher>
+		<genre>competitive, football, futuristic, powerups, shop, sport</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Speris Legacy (Europe).uae</path>
+		<name>The Speris Legacy (Europe)</name>
+		<image>./boxart/Speris Legacy (Europe).png</image>
+		<marquee>./wheel/Speris Legacy (Europe).png</marquee>
+		<video>./snap/Speris Legacy (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1996</releasedate>
+		<developer>Binary Emotions</developer>
+		<publisher>Ocean</publisher>
+		<genre>fantasy, rpg, topdown, wanderer</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Street Racer (AmigaCD).uae</path>
+		<name>Street Racer [AmigaCD]</name>
+		<image>./boxart/Street Racer (AmigaCD).png</image>
+		<marquee>./wheel/Street Racer (AmigaCD).png</marquee>
+		<video>./snap/Street Racer (AmigaCD).mp4</video>
+		<desc></desc>
+		<releasedate>1997</releasedate>
+		<developer>Vivid Image</developer>
+		<publisher>Acid (Guildhall)</publisher>
+		<genre>3d, behind, competitive, intoscreen, karts, mariokart, racing</genre>
+		<players>1 - 4 (2)</players>
+	</game>
+	<game>
+		<path>./Strip Pot (Europe).uae</path>
+		<name>Strip Pot (Europe)</name>
+		<image>./boxart/Strip Pot (Europe).png</image>
+		<marquee>./wheel/Strip Pot (Europe).png</marquee>
+		<video>./snap/Strip Pot (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Pixel Blue</developer>
+		<publisher>Guildhall</publisher>
+		<genre>adult, fruitmachine</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Subwar 2050 (Europe).uae</path>
+		<name>Subwar 2050 (Europe)</name>
+		<image>./boxart/Subwar 2050 (Europe).png</image>
+		<marquee>./wheel/Subwar 2050 (Europe).png</marquee>
+		<video>./snap/Subwar 2050 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Particle Systems</developer>
+		<publisher>MicroProse</publisher>
+		<genre>simulation, submarine</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Super Methane Bros (Europe).uae</path>
+		<name>Super Methane Bros (Europe)</name>
+		<image>./boxart/Super Methane Bros (Europe).png</image>
+		<marquee>./wheel/Super Methane Bros (Europe).png</marquee>
+		<video>./snap/Super Methane Bros (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Apache</developer>
+		<publisher>Apache</publisher>
+		<genre>platform, sideways, singlescreen</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Super Skidmarks (Europe).uae</path>
+		<name>Super Skidmarks (Europe)</name>
+		<image>./boxart/Super Skidmarks (Europe).png</image>
+		<marquee>./wheel/Super Skidmarks (Europe).png</marquee>
+		<video>./snap/Super Skidmarks (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer>Acid</developer>
+		<publisher>Acid</publisher>
+		<genre>arcade, cars, competitive, isometric, multidirectional, racing, scrolling</genre>
+		<players>1 - 4 (4)</players>
+	</game>
+	<game>
+		<path>./Super Street Fighter 2 Turbo (Europe).uae</path>
+		<name>Super Street Fighter II Turbo (Europe)</name>
+		<image>./boxart/Super Street Fighter 2 Turbo (Europe).png</image>
+		<marquee>./wheel/Super Street Fighter 2 Turbo (Europe).png</marquee>
+		<video>./snap/Super Street Fighter 2 Turbo (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1996</releasedate>
+		<developer>Human Soft</developer>
+		<publisher>Gametek</publisher>
+		<genre>beatemup, competitive, sideways</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Superfrog (Europe).uae</path>
+		<name>Superfrog (Europe)</name>
+		<image>./boxart/Superfrog (Europe).png</image>
+		<marquee>./wheel/Superfrog (Europe).png</marquee>
+		<video>./snap/Superfrog (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>animalprotagonist, platform, sideways, stomp</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Syndicate (Europe).uae</path>
+		<name>Syndicate (Europe)</name>
+		<image>./boxart/Syndicate (Europe).png</image>
+		<marquee>./wheel/Syndicate (Europe).png</marquee>
+		<video>./snap/Syndicate (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Mindscape</publisher>
+		<genre>futuristic, mouseonly, powerups, scifi, shooter, shop, squad, stategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Thomas the Tank Engine Pinball (Europe).uae</path>
+		<name>Thomas The Tank Engine's Pinball (Europe)</name>
+		<image>./boxart/Thomas the Tank Engine Pinball (Europe).png</image>
+		<marquee>./wheel/Thomas the Tank Engine Pinball (Europe).png</marquee>
+		<video>./snap/Thomas the Tank Engine Pinball (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer>Spidersoft</developer>
+		<publisher>Alternative Software</publisher>
+		<genre>competitive, hotseat, pinball, realistic, scrolling, topdown, vertical</genre>
+		<players>1 - 8 (1)</players>
+	</game>
+	<game>
+		<path>./Top Gear 2 (Europe).uae</path>
+		<name>Top Gear 2 (Europe)</name>
+		<image>./boxart/Top Gear 2 (Europe).png</image>
+		<marquee>./wheel/Top Gear 2 (Europe).png</marquee>
+		<video>./snap/Top Gear 2 (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Gremlin</publisher>
+		<genre>behind, car, intoscreen, racing</genre>
+		<players>1 - 2 (2)</players>
+	</game>
+	<game>
+		<path>./Trolls (Europe).uae</path>
+		<name>Trolls (Europe)</name>
+		<image>./boxart/Trolls (Europe).png</image>
+		<marquee>./wheel/Trolls (Europe).png</marquee>
+		<video>./snap/Trolls (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer></developer>
+		<publisher>Flair</publisher>
+		<genre>cute, multidirection, platform, scrolling, sideways, stomp</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./UFO - Enemy Unknown (Europe).uae</path>
+		<name>UFO Enemy Unknown (Europe)</name>
+		<image>./boxart/UFO - Enemy Unknown (Europe).png</image>
+		<marquee>./wheel/UFO - Enemy Unknown (Europe).png</marquee>
+		<video>./snap/UFO - Enemy Unknown (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Mythos</developer>
+		<publisher>Microprose</publisher>
+		<genre>alieninvasion, aliens, angle, futristic, lasersquad, multidirectional, scifi, strategy, turnbased, wargame</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ultimate Body Blows (Europe).uae</path>
+		<name>Ultimate Body Blows (Europe)</name>
+		<image>./boxart/Ultimate Body Blows (Europe).png</image>
+		<marquee>./wheel/Ultimate Body Blows (Europe).png</marquee>
+		<video>./snap/Ultimate Body Blows (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>beatemup, competitive, sideways, streetfighter</genre>
+		<players>1 - 42 (2)</players>
+	</game>
+	<game>
+		<path>./Universe (Europe).uae</path>
+		<name>Universe (Europe)</name>
+		<image>./boxart/Universe (Europe).png</image>
+		<marquee>./wheel/Universe (Europe).png</marquee>
+		<video>./snap/Universe (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer></developer>
+		<publisher>Core</publisher>
+		<genre>adventure, futuristic, pointandclick, scifi, sideways</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Wing Commander (Europe).uae</path>
+		<name>Dangerous Streets & Wing Commander (Europe)</name>
+		<image>./boxart/Wing Commander (Europe).png</image>
+		<marquee>./wheel/Wing Commander (Europe).png</marquee>
+		<video>./snap/Wing Commander (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1994</releasedate>
+		<developer>Origin, Micromania Software</developer>
+		<publisher>Origin, Electronic Arts, Mindscape, Flair Software</publisher>
+		<genre>action, simulation</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Worms (Europe) (2 MB).uae</path>
+		<name>Worms (2 MB) (Europe)</name>
+		<image>./boxart/Worms (Europe) (2 MB).png</image>
+		<marquee>./wheel/Worms (Europe) (2 MB).png</marquee>
+		<video>./snap/Worms (Europe) (2 MB).mp4</video>
+		<desc></desc>
+		<releasedate>1995</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17 / Ocean</publisher>
+		<genre>artillery, multidirectional, puzzle, sideways</genre>
+		<players>1 - 4 (1)</players>
+	</game>
+	<game>
+		<path>./Zool (Europe).uae</path>
+		<name>Zool (Europe)</name>
+		<image>./boxart/Zool (Europe).png</image>
+		<marquee>./wheel/Zool (Europe).png</marquee>
+		<video>./snap/Zool (Europe).mp4</video>
+		<desc></desc>
+		<releasedate>1993</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin</publisher>
+		<genre>cute, jumpnrun, multidirection, ninjas, platform, scrolling, sideways, stomp</genre>
+		<players>1</players>
+	</game>
+</gameList>

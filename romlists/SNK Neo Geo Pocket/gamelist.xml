@@ -1,0 +1,276 @@
+<gameList>
+<game id="47055" source="ScreenScraper">
+	<path>./Baseball Stars (Japan, Europe).zip</path>
+	<name>Baseball Stars</name>
+	<desc>Baseball Stars is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics, like stamina.</desc>
+	<image>./boxart/Baseball Stars (Japan, Europe).png</image>
+	<marquee>./wheel/Baseball Stars (Japan, Europe).png</marquee>
+	<video>./snap/Baseball Stars (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer>SNK</developer>
+	<publisher>SNK</publisher>
+	<genre>Sports</genre>
+	<players>2</players>
+</game>
+<game id="47057" source="ScreenScraper">
+	<path>./King of Fighters R-1 (Japan, Europe).zip</path>
+	<name>King of Fighters R-1</name>
+	<desc>The King of Fighters: R1 marks SNK's first time bringing the KOF series onto a handheld... and what better system than their own Neo Geo Pocket to do just that? 14 of the most well known KOF characters make their appearance in KOF: R-1, along with some recognizable backgrounds and gameplay features based on The King of Fighters '97. Players can choose from "Extra" &amp; "Advance" play modes similar to KOF '97, and most characters play closely to their original versions.</desc>
+	<image>./boxart/King of Fighters R-1 (Japan, Europe).png</image>
+	<marquee>./wheel/King of Fighters R-1 (Japan, Europe).png</marquee>
+	<video>./snap/King of Fighters R-1 (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer>SNK</developer>
+	<publisher>SNK</publisher>
+	<genre>Fight</genre>
+	<players>2</players>
+</game>
+<game id="47058" source="ScreenScraper">
+	<path>./Melon-chan no Seichou Nikki (Japan).zip</path>
+	<name>Melon-chan no Seichou Nikki</name>
+	<desc>Melon Chan's Growth Diary (Japan: Melon-chan no Seichouki) is a Life simulation game it is comparable to Tamagotchi and other virtual life simulations. In Melon Chan's Growth Diary the player raises and nurtures little girl Melon Chan. The games was only released in Japan and was one of the earliest titles released for the Neo Geo Pocket.
+
+The game was released for the Neo Geo Pocket and features monochrome graphics; however the Neo Geo Pocket Color is backwards compatible with the game.</desc>
+	<image>./boxart/Melon-chan no Seichou Nikki (Japan).png</image>
+	<marquee>./wheel/Melon-chan no Seichou Nikki (Japan).png</marquee>
+	<video>./snap/Melon-chan no Seichou Nikki (Japan).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer>ADK</developer>
+	<publisher>ADK</publisher>
+	<genre>Simulation</genre>
+	<players>1</players>
+</game>
+<game id="47059" source="ScreenScraper">
+	<path>./Neo Cherry Master - Real Casino Series (Japan, Europe).zip</path>
+	<name>Neo Cherry Master - Real Casino Series</name>
+	<desc/>
+	<image>./boxart/Neo Cherry Master - Real Casino Series (Japan, Europe).png</image>
+	<marquee>./wheel/Neo Cherry Master - Real Casino Series (Japan, Europe).png</marquee>
+	<video>./snap/Neo Cherry Master - Real Casino Series (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher>Dyna</publisher>
+	<genre>Casino</genre>
+	<players/>
+</game>
+<game id="47060" source="ScreenScraper">
+	<path>./Neo Geo Cup '98 (Japan, Europe).zip</path>
+	<name>Neo Geo Cup '98</name>
+	<desc/>
+	<image>./boxart/Neo Geo Cup '98 (Japan, Europe).png</image>
+	<marquee>./wheel/Neo Geo Cup '98 (Japan, Europe).png</marquee>
+	<video>./snap/Neo Geo Cup '98 (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher>SNK</publisher>
+	<genre>Sports</genre>
+	<players/>
+</game>
+<game id="47066" source="ScreenScraper">
+	<path>./Pocket Tennis - Pocket Sports Series (Japan, Europe).zip</path>
+	<name>Pocket Tennis - Pocket Sports Series</name>
+	<desc/>
+	<image>./boxart/Pocket Tennis - Pocket Sports Series (Japan, Europe).png</image>
+	<marquee>./wheel/Pocket Tennis - Pocket Sports Series (Japan, Europe).png</marquee>
+	<video>./snap/Pocket Tennis - Pocket Sports Series (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="47061" source="ScreenScraper">
+	<path>./Renketsu Puzzle Tsunagete Pon! (Japan).zip</path>
+	<name>Renketsu Puzzle Tsunagete Pon!</name>
+	<desc>Renketsu Puzzle Tsunagete Pon! is a game where blocks  have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen.</desc>
+	<image>./boxart/Renketsu Puzzle Tsunagete Pon! (Japan).png</image>
+	<marquee>./wheel/Renketsu Puzzle Tsunagete Pon! (Japan).png</marquee>
+	<video>./snap/Renketsu Puzzle Tsunagete Pon! (Japan).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer>Yumekobo</developer>
+	<publisher>SNK</publisher>
+	<genre>Puzzle-Game</genre>
+	<players>2</players>
+</game>
+<game id="47067" source="ScreenScraper">
+	<path>./Samurai Shodown! - Pocket Fighting Series (Japan, Europe).zip</path>
+	<name>Samurai Shodown! - Pocket Fighting Series</name>
+	<desc/>
+	<image>./boxart/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).png</image>
+	<marquee>./wheel/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).png</marquee>
+	<video>./snap/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer>SNK</developer>
+	<publisher>SNK</publisher>
+	<genre>Fight</genre>
+	<players/>
+</game>
+<game id="47062" source="ScreenScraper">
+	<path>./Shougi no Tatsujin (Japan).zip</path>
+	<name>Shougi no Tatsujin</name>
+	<desc/>
+	<image>./boxart/Shougi no Tatsujin (Japan).png</image>
+	<marquee>./wheel/Shougi no Tatsujin (Japan).png</marquee>
+	<video>./snap/Shougi no Tatsujin (Japan).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher>SNK</publisher>
+	<genre>Strategy</genre>
+	<players/>
+</game>
+<game id="47055" source="ScreenScraper">
+	<path>./Baseball Stars (Japan, Europe).ngp</path>
+	<name>Baseball Stars</name>
+	<desc>Baseball Stars is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics, like stamina.</desc>
+	<image>./boxart/Baseball Stars (Japan, Europe).png</image>
+	<marquee>./wheel/Baseball Stars (Japan, Europe).png</marquee>
+	<video>./snap/Baseball Stars (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer>SNK</developer>
+	<publisher>SNK</publisher>
+	<genre>Sports</genre>
+	<players>2</players>
+</game>
+<game id="47057" source="ScreenScraper">
+	<path>./King of Fighters R-1 (Japan, Europe).ngp</path>
+	<name>King of Fighters R-1</name>
+	<desc>The King of Fighters: R1 marks SNK's first time bringing the KOF series onto a handheld... and what better system than their own Neo Geo Pocket to do just that? 14 of the most well known KOF characters make their appearance in KOF: R-1, along with some recognizable backgrounds and gameplay features based on The King of Fighters '97. Players can choose from "Extra" &amp; "Advance" play modes similar to KOF '97, and most characters play closely to their original versions.</desc>
+	<image>./boxart/King of Fighters R-1 (Japan, Europe).png</image>
+	<marquee>./wheel/King of Fighters R-1 (Japan, Europe).png</marquee>
+	<video>./snap/King of Fighters R-1 (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer>SNK</developer>
+	<publisher>SNK</publisher>
+	<genre>Fight</genre>
+	<players>2</players>
+</game>
+<game id="47058" source="ScreenScraper">
+	<path>./Melon-chan no Seichou Nikki (Japan).ngp</path>
+	<name>Melon-chan no Seichou Nikki</name>
+	<desc>Melon Chan's Growth Diary (Japan: Melon-chan no Seichouki) is a Life simulation game it is comparable to Tamagotchi and other virtual life simulations. In Melon Chan's Growth Diary the player raises and nurtures little girl Melon Chan. The games was only released in Japan and was one of the earliest titles released for the Neo Geo Pocket.
+
+The game was released for the Neo Geo Pocket and features monochrome graphics; however the Neo Geo Pocket Color is backwards compatible with the game.</desc>
+	<image>./boxart/Melon-chan no Seichou Nikki (Japan).png</image>
+	<marquee>./wheel/Melon-chan no Seichou Nikki (Japan).png</marquee>
+	<video>./snap/Melon-chan no Seichou Nikki (Japan).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer>ADK</developer>
+	<publisher>ADK</publisher>
+	<genre>Simulation</genre>
+	<players>1</players>
+</game>
+<game id="47059" source="ScreenScraper">
+	<path>./Neo Cherry Master - Real Casino Series (Japan, Europe).ngp</path>
+	<name>Neo Cherry Master - Real Casino Series</name>
+	<desc/>
+	<image>./boxart/Neo Cherry Master - Real Casino Series (Japan, Europe).png</image>
+	<marquee>./wheel/Neo Cherry Master - Real Casino Series (Japan, Europe).png</marquee>
+	<video>./snap/Neo Cherry Master - Real Casino Series (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher>Dyna</publisher>
+	<genre>Casino</genre>
+	<players/>
+</game>
+<game id="47060" source="ScreenScraper">
+	<path>./Neo Geo Cup '98 (Japan, Europe).ngp</path>
+	<name>Neo Geo Cup '98</name>
+	<desc/>
+	<image>./boxart/Neo Geo Cup '98 (Japan, Europe).png</image>
+	<marquee>./wheel/Neo Geo Cup '98 (Japan, Europe).png</marquee>
+	<video>./snap/Neo Geo Cup '98 (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher>SNK</publisher>
+	<genre>Sports</genre>
+	<players/>
+</game>
+<game id="47066" source="ScreenScraper">
+	<path>./Pocket Tennis - Pocket Sports Series (Japan, Europe).ngp</path>
+	<name>Pocket Tennis - Pocket Sports Series</name>
+	<desc/>
+	<image>./boxart/Pocket Tennis - Pocket Sports Series (Japan, Europe).png</image>
+	<marquee>./wheel/Pocket Tennis - Pocket Sports Series (Japan, Europe).png</marquee>
+	<video>./snap/Pocket Tennis - Pocket Sports Series (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="47061" source="ScreenScraper">
+	<path>./Renketsu Puzzle Tsunagete Pon! (Japan).ngp</path>
+	<name>Renketsu Puzzle Tsunagete Pon!</name>
+	<desc>Renketsu Puzzle Tsunagete Pon! is a game where blocks  have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen.</desc>
+	<image>./boxart/Renketsu Puzzle Tsunagete Pon! (Japan).png</image>
+	<marquee>./wheel/Renketsu Puzzle Tsunagete Pon! (Japan).png</marquee>
+	<video>./snap/Renketsu Puzzle Tsunagete Pon! (Japan).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer>Yumekobo</developer>
+	<publisher>SNK</publisher>
+	<genre>Puzzle-Game</genre>
+	<players>2</players>
+</game>
+<game id="47067" source="ScreenScraper">
+	<path>./Samurai Shodown! - Pocket Fighting Series (Japan, Europe).ngp</path>
+	<name>Samurai Shodown! - Pocket Fighting Series</name>
+	<desc/>
+	<image>./boxart/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).png</image>
+	<marquee>./wheel/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).png</marquee>
+	<video>./snap/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer>SNK</developer>
+	<publisher>SNK</publisher>
+	<genre>Fight</genre>
+	<players/>
+</game>
+<game id="47062" source="ScreenScraper">
+	<path>./Shougi no Tatsujin (Japan).ngp</path>
+	<name>Shougi no Tatsujin</name>
+	<desc/>
+	<image>./boxart/Shougi no Tatsujin (Japan).png</image>
+	<marquee>./wheel/Shougi no Tatsujin (Japan).png</marquee>
+	<video>./snap/Shougi no Tatsujin (Japan).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher>SNK</publisher>
+	<genre>Strategy</genre>
+	<players/>
+</game>
+</gameList>

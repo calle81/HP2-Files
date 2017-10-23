@@ -1,0 +1,992 @@
+<gameList>
+<game id="" source="ScreenScraper">
+	<path>./Analogic.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Analogic.png</image>
+	<marquee>./wheel/Analogic.png</marquee>
+	<video>./snap/Analogic.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Baseball.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Baseball.png</image>
+	<marquee>./wheel/Baseball.png</marquee>
+	<video>./snap/Baseball.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Basketball.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Basketball.png</image>
+	<marquee>./wheel/Basketball.png</marquee>
+	<video>./snap/Basketball.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Brain Wave.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Brain Wave.png</image>
+	<marquee>./wheel/Brain Wave.png</marquee>
+	<video>./snap/Brain Wave.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Cartridge 11.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Cartridge 11.png</image>
+	<marquee>./wheel/Cartridge 11.png</marquee>
+	<video>./snap/Cartridge 11.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Cat and Mouse.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Cat and Mouse.png</image>
+	<marquee>./wheel/Cat and Mouse.png</marquee>
+	<video>./snap/Cat and Mouse.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Dogfight.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Dogfight.png</image>
+	<marquee>./wheel/Dogfight.png</marquee>
+	<video>./snap/Dogfight.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Football (Kicking and Passing).zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Football (Kicking and Passing).png</image>
+	<marquee>./wheel/Football (Kicking and Passing).png</marquee>
+	<video>./snap/Football (Kicking and Passing).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Football (Running).zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Football (Running).png</image>
+	<marquee>./wheel/Football (Running).png</marquee>
+	<video>./snap/Football (Running).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Fun Zoo.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Fun Zoo.png</image>
+	<marquee>./wheel/Fun Zoo.png</marquee>
+	<video>./snap/Fun Zoo.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Handball.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Handball.png</image>
+	<marquee>./wheel/Handball.png</marquee>
+	<video>./snap/Handball.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Haunted House.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Haunted House.png</image>
+	<marquee>./wheel/Haunted House.png</marquee>
+	<video>./snap/Haunted House.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Hockey.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Hockey.png</image>
+	<marquee>./wheel/Hockey.png</marquee>
+	<video>./snap/Hockey.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Interplanetary Voyage.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Interplanetary Voyage.png</image>
+	<marquee>./wheel/Interplanetary Voyage.png</marquee>
+	<video>./snap/Interplanetary Voyage.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Invasion (1).zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Invasion (1).png</image>
+	<marquee>./wheel/Invasion (1).png</marquee>
+	<video>./snap/Invasion (1).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Invasion (2).zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Invasion (2).png</image>
+	<marquee>./wheel/Invasion (2).png</marquee>
+	<video>./snap/Invasion (2).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Invasion (3).zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Invasion (3).png</image>
+	<marquee>./wheel/Invasion (3).png</marquee>
+	<video>./snap/Invasion (3).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Percepts.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Percepts.png</image>
+	<marquee>./wheel/Percepts.png</marquee>
+	<video>./snap/Percepts.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Prehistoric Safari.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Prehistoric Safari.png</image>
+	<marquee>./wheel/Prehistoric Safari.png</marquee>
+	<video>./snap/Prehistoric Safari.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Roulette.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Roulette.png</image>
+	<marquee>./wheel/Roulette.png</marquee>
+	<video>./snap/Roulette.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Shooting Gallery.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Shooting Gallery.png</image>
+	<marquee>./wheel/Shooting Gallery.png</marquee>
+	<video>./snap/Shooting Gallery.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Shootout.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Shootout.png</image>
+	<marquee>./wheel/Shootout.png</marquee>
+	<video>./snap/Shootout.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Simon Says.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Simon Says.png</image>
+	<marquee>./wheel/Simon Says.png</marquee>
+	<video>./snap/Simon Says.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Ski.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Ski.png</image>
+	<marquee>./wheel/Ski.png</marquee>
+	<video>./snap/Ski.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Soccer (1).zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Soccer (1).png</image>
+	<marquee>./wheel/Soccer (1).png</marquee>
+	<video>./snap/Soccer (1).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Soccer (2).zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Soccer (2).png</image>
+	<marquee>./wheel/Soccer (2).png</marquee>
+	<video>./snap/Soccer (2).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./States.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/States.png</image>
+	<marquee>./wheel/States.png</marquee>
+	<video>./snap/States.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Submarine.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Submarine.png</image>
+	<marquee>./wheel/Submarine.png</marquee>
+	<video>./snap/Submarine.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Table Tennis.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Table Tennis.png</image>
+	<marquee>./wheel/Table Tennis.png</marquee>
+	<video>./snap/Table Tennis.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Tennis.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Tennis.png</image>
+	<marquee>./wheel/Tennis.png</marquee>
+	<video>./snap/Tennis.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Volleyball.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Volleyball.png</image>
+	<marquee>./wheel/Volleyball.png</marquee>
+	<video>./snap/Volleyball.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Win.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Win.png</image>
+	<marquee>./wheel/Win.png</marquee>
+	<video>./snap/Win.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Wipeout.zip</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Wipeout.png</image>
+	<marquee>./wheel/Wipeout.png</marquee>
+	<video>./snap/Wipeout.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Analogic.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Analogic.png</image>
+	<marquee>./wheel/Analogic.png</marquee>
+	<video>./snap/Analogic.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Baseball.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Baseball.png</image>
+	<marquee>./wheel/Baseball.png</marquee>
+	<video>./snap/Baseball.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Basketball.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Basketball.png</image>
+	<marquee>./wheel/Basketball.png</marquee>
+	<video>./snap/Basketball.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Brain Wave.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Brain Wave.png</image>
+	<marquee>./wheel/Brain Wave.png</marquee>
+	<video>./snap/Brain Wave.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Cartridge 11.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Cartridge 11.png</image>
+	<marquee>./wheel/Cartridge 11.png</marquee>
+	<video>./snap/Cartridge 11.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Cat and Mouse.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Cat and Mouse.png</image>
+	<marquee>./wheel/Cat and Mouse.png</marquee>
+	<video>./snap/Cat and Mouse.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Dogfight.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Dogfight.png</image>
+	<marquee>./wheel/Dogfight.png</marquee>
+	<video>./snap/Dogfight.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Football (Kicking and Passing).bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Football (Kicking and Passing).png</image>
+	<marquee>./wheel/Football (Kicking and Passing).png</marquee>
+	<video>./snap/Football (Kicking and Passing).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Football (Running).bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Football (Running).png</image>
+	<marquee>./wheel/Football (Running).png</marquee>
+	<video>./snap/Football (Running).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Fun Zoo.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Fun Zoo.png</image>
+	<marquee>./wheel/Fun Zoo.png</marquee>
+	<video>./snap/Fun Zoo.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Handball.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Handball.png</image>
+	<marquee>./wheel/Handball.png</marquee>
+	<video>./snap/Handball.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Haunted House.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Haunted House.png</image>
+	<marquee>./wheel/Haunted House.png</marquee>
+	<video>./snap/Haunted House.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Hockey.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Hockey.png</image>
+	<marquee>./wheel/Hockey.png</marquee>
+	<video>./snap/Hockey.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Interplanetary Voyage.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Interplanetary Voyage.png</image>
+	<marquee>./wheel/Interplanetary Voyage.png</marquee>
+	<video>./snap/Interplanetary Voyage.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Invasion (1).bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Invasion (1).png</image>
+	<marquee>./wheel/Invasion (1).png</marquee>
+	<video>./snap/Invasion (1).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Invasion (2).bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Invasion (2).png</image>
+	<marquee>./wheel/Invasion (2).png</marquee>
+	<video>./snap/Invasion (2).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Invasion (3).bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Invasion (3).png</image>
+	<marquee>./wheel/Invasion (3).png</marquee>
+	<video>./snap/Invasion (3).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Percepts.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Percepts.png</image>
+	<marquee>./wheel/Percepts.png</marquee>
+	<video>./snap/Percepts.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Prehistoric Safari.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Prehistoric Safari.png</image>
+	<marquee>./wheel/Prehistoric Safari.png</marquee>
+	<video>./snap/Prehistoric Safari.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Roulette.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Roulette.png</image>
+	<marquee>./wheel/Roulette.png</marquee>
+	<video>./snap/Roulette.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Shooting Gallery.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Shooting Gallery.png</image>
+	<marquee>./wheel/Shooting Gallery.png</marquee>
+	<video>./snap/Shooting Gallery.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Shootout.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Shootout.png</image>
+	<marquee>./wheel/Shootout.png</marquee>
+	<video>./snap/Shootout.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Simon Says.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Simon Says.png</image>
+	<marquee>./wheel/Simon Says.png</marquee>
+	<video>./snap/Simon Says.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Ski.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Ski.png</image>
+	<marquee>./wheel/Ski.png</marquee>
+	<video>./snap/Ski.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Soccer (1).bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Soccer (1).png</image>
+	<marquee>./wheel/Soccer (1).png</marquee>
+	<video>./snap/Soccer (1).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Soccer (2).bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Soccer (2).png</image>
+	<marquee>./wheel/Soccer (2).png</marquee>
+	<video>./snap/Soccer (2).mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./States.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/States.png</image>
+	<marquee>./wheel/States.png</marquee>
+	<video>./snap/States.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Submarine.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Submarine.png</image>
+	<marquee>./wheel/Submarine.png</marquee>
+	<video>./snap/Submarine.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Table Tennis.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Table Tennis.png</image>
+	<marquee>./wheel/Table Tennis.png</marquee>
+	<video>./snap/Table Tennis.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Tennis.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Tennis.png</image>
+	<marquee>./wheel/Tennis.png</marquee>
+	<video>./snap/Tennis.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Volleyball.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Volleyball.png</image>
+	<marquee>./wheel/Volleyball.png</marquee>
+	<video>./snap/Volleyball.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Win.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Win.png</image>
+	<marquee>./wheel/Win.png</marquee>
+	<video>./snap/Win.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+<game id="" source="ScreenScraper">
+	<path>./Wipeout.bin</path>
+	<name/>
+	<desc/>
+	<image>./boxart/Wipeout.png</image>
+	<marquee>./wheel/Wipeout.png</marquee>
+	<video>./snap/Wipeout.mp4</video>
+	<thumbnail/>
+	<rating>0</rating>
+	<releasedate>00000000T000000</releasedate>
+	<developer/>
+	<publisher/>
+	<genre/>
+	<players/>
+</game>
+</gameList>
