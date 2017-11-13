@@ -2,7 +2,7 @@
 
 Attract-Mode Frontend - Pan and Scan module
 -------------------------------------------
-Modified by Carl for Project HyperPie. PLace in /opt/retropie/configs/all/attractmode/modules
+Modified by Carl for Project HyperPie. Place in /opt/retropie/configs/all/attractmode/modules
 Extends the PreserveArt module by liquid8d. Tested with version 1.0 of PreserveArt.
 
 Displays an art or image object, and animates it by scrolling and zooming.
